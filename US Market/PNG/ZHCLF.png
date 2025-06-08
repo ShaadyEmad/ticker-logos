@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>404 Error - zenithepigenetics</title>
+
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+  <!-- Fonts -->
+  <!--
+  <script type="text/javascript" src="//use.typekit.net/xei3idj.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  -->
+
+  <!-- Scripts -->
+  <script type="text/javascript" src="/javascripts/modernizr.min.js"></script>
+
+  <!-- CSS Global Compulsory-->
+  <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap-responsive.min.css">
+  <link rel="stylesheet" href="/assets/css/style_responsive.css">
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.css">
+  <link rel="stylesheet" href="/assets/plugins/flexslider/flexslider.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/assets/plugins/parallax-slider/css/parallax-slider.css" type="text/css">
+  
+  <script type="text/javascript">
+  (function(global){
+    var onLoads = [];
+    global.addOnLoad = function(handler){ onLoads.push(handler); }
+    global.triggerOnLoads = function(){
+      for (var i = onLoads.length - 1; i >= 0; i--) { onLoads[i](); };
+    }
+  })(window);
+  </script>
+  
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/stylesheets/tabs.css">
+
+  <meta name="page_id" content="4"/>
+  
+  
+</head>
+
+<body id="page4" class="default">
+
+<div class="content-wrapper"><!--=== Header ===-->
+<div class="header">               
+    <div class="container"> 
+        <!-- Logo -->       
+        <div class="logo">                                             
+          <a href="/">
+            <img id="logo-header" src="/images/layout/zenith.gif" alt="Zenith Epigenetics">
+          </a>
+        </div><!-- /logo -->        
+                                    
+        <!-- Menu -->       
+        <div class="navbar">                                
+            <div class="navbar-inner">                                  
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a><!-- /nav-collapse -->                                  
+                <div class="nav-collapse collapse">                                     
+
+                  <ul class="nav top-2 page-1 opened">
+              <li class="page-5 first">
+        <a class="nav-about"  href='/about/overview'><span>About</span></a>
+      </li>
+          <li class="page-17">
+        <a class="nav-Science-Epigenetics"  href='/Science-Epigenetics/what-is-epigenetics'><span>Science & Epigenetics</span></a>
+      </li>
+          <li class="page-7">
+        <a class="nav-programs"  href='/programs/pipeline'><span>Programs</span></a>
+      </li>
+          <li class="page-9">
+        <a class="nav-newsroom"  href='/newsroom/news-releases.html'><span>Newsroom</span></a>
+      </li>
+          <li class="page-10 last">
+        <a class="nav-contact"  href='/contact/contact'><span>Contact</span></a>
+      </li>
+    
+      <li>
+        <a class="contact dropdown-toggle" href="/contact.html" data-hover="dropdown">
+          <span>Connect</span>
+        </a>
+        <div class="dropdown-menu" style="min-width:250px;">
+          <div class=wrapper>
+            <dl>
+              <dt>Email
+              <dd><a href="mailto:&#105;&#110;&#102;&#111;&#064;&#122;&#101;&#110;&#105;&#116;&#104;&#101;&#112;&#105;&#103;&#101;&#110;&#101;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;">&#105;&#110;&#102;&#111;&#064;&#122;&#101;&#110;&#105;&#116;&#104;&#101;&#112;&#105;&#103;&#101;&#110;&#101;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;</a>
+              <dt>Call
+              <dd>1 (587) 390-7865
+            </dl>
+            <div class=div></div>
+            <dl>
+              <dt>Share
+              <dd>
+              <!-- AddThis Button BEGIN -->
+              <div class="addthis_toolbox addthis_default_style">
+                <a class="addthis_button_preferred_1"></a>
+                <a class="addthis_button_preferred_2"></a>
+                <a class="addthis_button_preferred_3"></a>
+                <a class="addthis_button_preferred_4"></a>
+                <a class="addthis_button_compact"></a>
+              </div>
+              <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-52126ae402e2f2f8"></script>
+              <!-- AddThis Button END -->
+            </dl>
+          </div>
+        </div>
+      </li>
+      <li>
+        <a class="careers" href="/contact/FAQ.html">
+          <span>FAQ</span>
+        </a>
+      </li>
+
+    <!-- <li><a class="search"><i class="icon&#45;search search&#45;btn"></i></a></li>                                -->
+  </ul>
+
+  <!-- <div class="search&#45;open"> -->
+  <!--   <div class="input&#45;append"> -->
+  <!--     <form> -->
+  <!--       <input type="text" class="span3" placeholder="Search" /> -->
+  <!--       <button type="submit" class="btn&#45;u">Go</button> -->
+  <!--     </form> -->
+  <!--   </div> -->
+  <!-- </div> -->
+
+
+
+                </div><!-- /nav-collapse -->                                
+            </div><!-- /navbar-inner -->
+        </div><!-- /navbar -->                          
+
+        <div id="search">
+          <form action="/search.html" method="get" accept-charset="utf-8">
+            <input type="text" class="q" name="q" value="" placeholder="Search" id="term" />
+            <input class="submit" type="image" src="/images/layout/blank.gif" value="Go" />
+          </form>
+        </div>
+
+    </div><!-- /container -->               
+</div><!--/header -->      
+<!--=== End Header ===-->
+
+
+
+<!--=== Content Part ===-->
+<div class="container">	
+  <div class="row-fluid">
+    <div class="span3 side">
+        <nav class=side>  <header class="page-4 opened current"><a class="nav-404_error"  href='/404'><span>404 Error</span></a></header>
+
+  <ul class="nav_level1 page-4 opened">
+    
+    
+  </ul>
+</nav>
+        
+        
+    </div>
+    <div class="span9 main">
+        <h1>404 Error</h1>        
+        
+    </div>
+</div>
+
+
+</div><!--/container-->		
+<!-- End Content Part -->
+
+
+<!--=== Footer ===-->
+<div class="footer">
+	<div class="container">
+		<div class="row-fluid">
+
+            <div class="span2a">
+      <h3><a class="nav-about"  href='/about/overview'><span>About</span></a></h3>
+
+              <ul>
+                      <li class="page-48 first">
+              <a class="nav-overview"  href='/about/overview'><span>Overview</span></a>
+
+              
+            </li>
+                      <li class="page-13">
+              <a class="nav-management"  href='/about/management'><span>Management</span></a>
+
+              
+            </li>
+                      <li class="page-14 last">
+              <a class="nav-board-of-directors"  href='/about/board-of-directors'><span>Board of Directors</span></a>
+
+              
+            </li>
+                  </ul>
+          </div>
+      <div class="span2a">
+      <h3><a class="nav-Science-Epigenetics"  href='/Science-Epigenetics/what-is-epigenetics'><span>Science & Epigenetics</span></a></h3>
+
+              <ul>
+                      <li class="page-47 first">
+              <a class="nav-what-is-epigenetics"  href='/Science-Epigenetics/what-is-epigenetics'><span>What is Epigenetics?</span></a>
+
+              
+            </li>
+                      <li class="page-25">
+              <a class="nav-BET-oncology"  href='/Science-Epigenetics/BET-oncology'><span>BET Inhibitors & Oncology</span></a>
+
+                              <ul>
+                                      <li class="page-36 first last"><a class="nav-Resistance-Combo-Therapy"  href='/Science-Epigenetics/BET-oncology/Resistance-Combo-Therapy'><span>Resistance & Combo Therapy</span></a></li>
+                                  </ul>
+              
+            </li>
+                      <li class="page-44">
+              <a class="nav-BET-inhibitor-platform"  href='/Science-Epigenetics/BET-inhibitor-platform'><span>BET Inhibitor Platform</span></a>
+
+                              <ul>
+                                      <li class="page-45 first"><a class="nav-covalent-inhibitors"  href='/Science-Epigenetics/BET-inhibitor-platform/covalent-inhibitors'><span>Covalent BET Inhibitors</span></a></li>
+                                      <li class="page-46 last"><a class="nav-translational-medicine"  href='/Science-Epigenetics/BET-inhibitor-platform/translational-medicine'><span>Translational Medicine</span></a></li>
+                                  </ul>
+              
+            </li>
+                      <li class="page-23 last">
+              <a class="nav-publications-posters"  href='/Science-Epigenetics/publications-posters'><span>Publications & Posters</span></a>
+
+              
+            </li>
+                  </ul>
+          </div>
+      <div class="span2a">
+      <h3><a class="nav-programs"  href='/programs/pipeline'><span>Programs</span></a></h3>
+
+              <ul>
+                      <li class="page-18 first">
+              <a class="nav-pipeline"  href='/programs/pipeline'><span>Oncology Pipeline</span></a>
+
+                              <ul>
+                                      <li class="page-31 first"><a class="nav-prostate-cancer"  href='/programs/pipeline/prostate-cancer'><span>Prostate Cancer</span></a></li>
+                                      <li class="page-38"><a class="nav-triple-negative-breast-cancer"  href='/programs/pipeline/triple-negative-breast-cancer'><span>Breast Cancer</span></a></li>
+                                      <li class="page-42"><a class="nav-ovarian-cancer"  href='/programs/pipeline/ovarian-cancer'><span>Ovarian Cancer</span></a></li>
+                                      <li class="page-43"><a class="nav-lung-cancer"  href='/programs/pipeline/lung-cancer'><span>Lung Cancer</span></a></li>
+                                      <li class="page-35 last"><a class="nav-solid-tumors"  href='/programs/pipeline/solid-tumors'><span>Other Solid Tumor Cancers</span></a></li>
+                                  </ul>
+              
+            </li>
+                      <li class="page-20 last">
+              <a class="nav-business-strategy"  href='/programs/business-strategy'><span>Partnerships & Collaborations</span></a>
+
+              
+            </li>
+                  </ul>
+          </div>
+      <div class="span2a">
+      <h3><a class="nav-newsroom"  href='/newsroom/news-releases.html'><span>Newsroom</span></a></h3>
+
+              <ul>
+                      <li class="page-37 first">
+              <a class="nav-news-releases"  href='/newsroom/news-releases'><span>News Releases</span></a>
+
+              
+            </li>
+                      <li class="page-24">
+              <a class="nav-events"  href='/newsroom/events'><span>Presentations & Events</span></a>
+
+              
+            </li>
+                      <li class="page-16 last">
+              <a class="nav-corporate-information"  href='/newsroom/corporate-information'><span>SEDAR Filings</span></a>
+
+              
+            </li>
+                  </ul>
+          </div>
+      <div class="span2a">
+      <h3><a class="nav-contact"  href='/contact/contact'><span>Contact</span></a></h3>
+
+              <ul>
+                      <li class="page-49 first">
+              <a class="nav-contact"  href='/contact/contact'><span>Contact</span></a>
+
+              
+            </li>
+                      <li class="page-41">
+              <a class="nav-careers"  href='/contact/careers'><span>Careers</span></a>
+
+              
+            </li>
+                      <li class="page-15 last">
+              <a class="nav-FAQ"  href='/contact/FAQ'><span>Shareholder FAQ</span></a>
+
+              
+            </li>
+                  </ul>
+          </div>
+  
+
+		</div><!--/row-fluid-->	
+	</div><!--/container-->	
+</div><!--/footer-->	
+<!--=== End Footer ===-->
+
+<!--=== Copyright ===-->
+<div class="copyright">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span8">						
+        <p>&copy; 2022 zenithepigenetics | <a href="/legal.html">Legal</a> | <a href="/privacy.html">Privacy</a>   
+			</div>
+			<div class="span4" style="padding-right:30px; text-align:right;">	
+        <!-- AddThis Button BEGIN -->
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=xa-52124367638ce561"><img src="/images/layout/share.png" width="50" height="20" alt="Bookmark and Share" style="border:0"/></a>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-52124367638ce561"></script>
+        <!-- AddThis Button END -->
+			</div>
+		</div><!--/row-fluid-->
+	</div><!--/container-->	
+</div><!--/copyright-->	
+<!--=== End Copyright ===--></div> <!-- end .content-wrapper -->
+<!-- Google Analytics goes here. -->
+
+<script type="text/javascript">
+var _gas = _gas || [];
+_gas.push(['_setAccount', 'UA-35735492-2']); // REPLACE WITH YOUR GA NUMBER
+_gas.push(['_setDomainName', '.zenithepigenetics.com']); // REPLACE WITH YOUR DOMAIN
+_gas.push(['_trackPageview']);
+_gas.push(['_trackForms']);
+_gas.push(['_trackOutboundLinks']);
+_gas.push(['_trackMaxScroll']);
+_gas.push(['_trackDownloads']);
+_gas.push(['_trackYoutube', {force:true}]);
+_gas.push(['_trackVimeo', {force:true}]);
+
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = '/javascripts/gas.min.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+<!-- JS Global Compulsory -->
+<script type="text/javascript" src="/assets/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="/assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="/assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+<script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="/assets/js/dropdown-on-hover.js"></script>
+
+<script type="text/javascript" src="/javascripts/jquery-tabs.js"></script>
+
+<script type="text/javascript" src="/assets/plugins/fancybox/source/jquery.fancybox.js"></script>
+<link rel="stylesheet" href="/assets/plugins/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+
+<!-- JS Page Level -->
+<script type="text/javascript" src="/assets/js/app.js"></script>
+<script type="text/javascript" src="/assets/js/pages/index.js"></script>
+<script type="text/javascript">
+
+    jQuery(document).ready(function() {
+        triggerOnLoads();
+      	App.init();
+        App.initSliders();
+        App.initFancybox();
+        Index.initParallaxSlider();
+        jQuery('.main .tab').tabs();
+        jQuery('.ntabs .mediaelement').click(function(e){
+          e.preventDefault();
+          window.open($(this).find('img + a').attr('href'), '_blank');
+        });
+    });
+
+</script>
+<!--[if lt IE 9]>
+    <script src="/assets/js/respond.js"></script>
+<![endif]-->
+
+</body>
+</html>

@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+		<!--<link rel="stylesheet" href="/css/sitesettings.php" type="text/css" />-->
+				<title>Siouxland Energy Cooperative - Homepage</title>
+		<!--[if IE & gte IE 8 ]>
+			<meta http-equiv="x-ua-compatible" content="IE=edge">
+		<![endif]-->
+		<meta name="keywords" content="" />
+        <meta name="description" content="" />
+		<!--<meta http-equiv="Refresh" content="1800" />-->
+		
+		<link rel="stylesheet" type="text/css" href="/css/symbolpicker.css" />
+		<link rel="shortcut icon" href="" />
+				<script type="text/javascript" nonce="ac-sites-inline-js">
+			var JSTemplateName = 'responsive';
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/prototype/1.7.0.0/prototype.js" integrity="sha256-3t6jqiKgh7N0XJY156PWXnctV85ZC1QaajIGmgsdYLk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.min.js" integrity="sha256-md9l4IyQqjtwDflTc6TT8foJIbHA8wpUoFLtV2tbWMc=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/effects.min.js" integrity="sha256-AOSx6HRh1cQUnMsmXXv6QTEh28+U1x//AlsoMMEgMJk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/controls.min.js" integrity="sha256-Hnarrh/d5YnnE7l1BOhCWRlebwt3kRCJ5GNOABGayIk=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.8.3/dragdrop.min.js" integrity="sha256-LDp/7eErvr3vvRgY20AA6v7Jj7jiW+uJF3fRJ/yYNMY=" crossorigin="anonymous"></script>
+		<script type="text/javascript" language="javascript" src="/js/symbolpicker.js"></script>
+		<script type="text/javascript" language="javascript" src="/js/shared.js"></script>
+				<script type="text/javascript" language="javascript" src="//www.agricharts.com/marketdata/quotelib.js"></script>				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.min.css" integrity="sha256-iWTx/iC9IoKaoSKD5+WVFef8ZYNIgQ4AxVpMbBw2hig=" crossorigin="anonymous" />
+		<link rel="stylesheet" href="/sitetemplates/responsive.css" />
+		<link rel="stylesheet" href="/css/responsive-default-colorscheme.css" type="text/css" />
+		<link rel="stylesheet" href="/sitetemplates/sliding-sidebar.css" />
+					<link rel="stylesheet" href="/sitetemplates/static-nav-fixes.css" />
+				<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.11/css/dataTables.bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.0.2/css/responsive.bootstrap.min.css"/>					<style>
+				p {
+    line-height: 26px;
+}
+.h2, h2 {
+    font-size: 28px;
+    color: #fbba30;
+}
+.h3, h3 {
+    font-size: 21px;
+    color: #FFF;
+}
+@media screen and (min-width:768px){
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    background-color: rgba(0,0,0,.36);
+}
+.carousel-caption h2{font-size:54px;}
+.navbar-logo-margin {
+    margin-top: -9px;
+    width: 55%;
+}
+.navbar {
+    margin-bottom: 0;
+    height: 111px;
+    background-color: #FFF;
+border: none;
+}
+.navbar-right {
+    float: right !important;
+    margin-right: -15px;
+    margin-top: -20px;
+}
+.navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: rgba(0,0,0,.66);
+}
+.navbar .dropdown-menu li a:hover {
+	background-color: #FFFFFF;
+	color: #333333;
+}
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a, .sidebar .nav-stacked > li > a {
+    color: #fbba30;
+    text-transform: uppercase;
+}
+#sidebar-wrapper {
+    background: #008134;
+}
+.sidebar-nav .open .dropdown-menu, .sidebar-nav .open .dropdown-menu > li, .sidebar-nav .open .dropdown-menu > li > a {
+    background: #008134;
+}
+.title-block {
+    background-color: #FFF;
+    color: #333333;
+    text-transform: uppercase;
+    text-align: center;
+}
+.h4, h4 {
+    font-size: 21px;
+    line-height: 1.8;
+    color: #fbba30;
+    font-weight: 500;
+}
+.squares td {
+background-color: #fbba30;
+color: #FFFFFF;
+padding: 32px 0;
+}
+.squares table{
+border-spacing: 10px;
+border-collapse: separate;}
+
+.squares a{color:#FFFFFF;
+font-size:17px;}
+
+.squares td:hover{background-image:url("//s3.amazonaws.com/media.agricharts.com/sites/1691/block_image2.png")}
+.footer {
+    background-color: #FFF;
+    color: #000;
+}
+.block{background-color:#fbba30;
+color:#FFFFFF;
+padding:10px;}
+.block a{color:#FFFFFF;text-decoration: underline;}
+.block{font-size:16px;}
+.block2{background-color:#fbba30;width:320px;padding:10px;}
+.block2 a{color:#FFFFFF;}
+@media screen and (max-width:767px){
+.navbar-default{background-color:#FFFFFF;border:none;}
+.navbar-default .navbar-nav .open .dropdown-menu {
+    background-color: #000;
+}
+
+.navbar-logo-margin {
+    margin-top: -10px;
+    width: 58%;
+}
+#menu-toggle{display: none;}
+.navbar-nav {
+    background-color: #000;
+    border: none;
+    margin-top: 64px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+}
+.navbar-toggle{background-color:#000000!important;border-color:#000000!important;}
+}
+
+				
+				body {
+					/*background: lightblue;*/
+				}
+				
+			</style>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" integrity="sha256-ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU=" crossorigin="anonymous" id="jquery"></script>				<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc=" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/1.6/jquery.rwdImageMaps.min.js" integrity="sha512-eZB7hQa0bRlrKMQ2njpP0d/Klu6o30Gsr8e5FUCjUT3fSlnVkm/1J14n58BuwgaMuObrGb7SvUfQuF8qFsPU4g==" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<nav class="navbar navbar-default navbar-static-top">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#ac-navbar-1" aria-expanded="false">
+				<span class="sr-only">Toggle Navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/">
+									<img class="img-responsive navbar-logo-margin" src="https://s3.amazonaws.com/media.agricharts.com/sites/2098/Pictures/siouxlandlogo1.png" alt="Siouxland Energy Cooperative" />
+							</a>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="ac-navbar-1">
+			<ul class="nav navbar-nav navbar-right" role="menu">
+															<li role="menuitem">
+							<a href="/" >Home</a>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Who We Are</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Who We Are <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li role="menuitem">
+										<a href="/history" >Our History</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/membership" >Membership</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/hours" >Hours of Operation</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/personnel" >Personnel</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/employment" >Employment</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/employmentapp" >Employment Application</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/pages/contact.php" >Contact Us</a>
+									</li>
+															</ul>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">What We Do</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">What We Do <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li role="menuitem">
+										<a href="/pages/custom.php?id=75382" >Energy</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/grainprogram" >Grain</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/co-prod2" >Co-Products</a>
+									</li>
+															</ul>
+						</li>
+																				<li role="menuitem">
+							<a href="/markets/cash.php" >Cash Bids</a>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Market Data & Commentary</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Market Data & Commentary <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li role="menuitem">
+										<a href="/markets/fixed.php?page=overview" >Market Overview</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/futuresindex" >Futures</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/optionsindex" >Options</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/markets/custchart.php" >Charts</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/markets/spreadchart.php" >Spread Charts</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/markets/news.php?feed=BRUG" >Ag Market Commentary</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/markets/news.php?feed=SPC" >Commentary By Total Farm Marketing</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/markets/news.php?feed=IF" >Barchart Contributors</a>
+									</li>
+															</ul>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Members</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Members <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li role="menuitem">
+										<a href="/account/login.php" >Login</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/account/register.php" >Register</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/pages/custom.php?id=75377" >Change of Address Form</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/pages/custom.php?id=75380" >Email/Text Sign Up</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/changeofaddressform" >Change Of Address Form</a>
+									</li>
+															</ul>
+						</li>
+																				<!--<li class="dropdown dropdown-li">
+							<a class="dropdown-link" href="#">Weather</a><a class="dropdown-toggle dropdown-caret" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false"><span class="caret"></span></a>-->
+							<li class="dropdown" role="menuitem">
+							<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false">Weather <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+																	<li role="menuitem">
+										<a href="/pages/weather-new.php" >Local Weather</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/weathercenter" >Weather Center</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/noaa" >NWS Weather</a>
+									</li>
+																	<li role="menuitem">
+										<a href="/weather/drought_maps.php" >US Drought Map</a>
+									</li>
+															</ul>
+						</li>
+												</ul>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</nav>		<div id="wrapper">
+						<div id="page-content-wrapper" role="main">
+				<div class="text-left hidden-md hidden-lg show-hide-sidebar">
+					<a href="#menu-toggle" class="btn btn-default btn-xs glyphicon glyphicon-triangle-right" id="menu-toggle"></a>
+				</div>
+				<div id="acContentHolder" class="container">
+					<div >
+						<script language="javascript" src="/markets/quoteutil-js.php"></script>
+										<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+					<script language="javascript" type="text/javascript">
+	var features = {
+		first : {
+			image:	'https://s3.amazonaws.com/media.agricharts.com/sites/2098/Responsive Slides/Slide1Croppedb.JPG',
+			text:	'<div class="mission"><h2>OUR MISSION<\/h2><h3>To return value to our members\' corn through the best cost production in the renewable fuels industry.<\/h3><div>&nbsp;<\/div><\/div>'
+		},
+		second : {
+			image:	'',
+			text:	''
+		},
+		third : {
+			image:	'',
+			text:	''
+		},
+		fourth : {
+			image:	'',
+			text:	''
+		},
+		fifth : {
+			image:	'',
+			text:	''
+		}
+	};
+
+	var featureTo;
+
+	function switchFeature(selName, clicked) {
+		var nameAry = new Array();
+		var i=0, selId=0;
+
+		for (var name in features) {
+			if (name == selName)
+				selId = i;
+			nameAry[i] = name;
+			i++;
+			document.getElementById(name + 'Feature').style.display = 'none';
+			document.getElementById(name + 'Feature').style.visibility = 'hidden';
+		}
+
+		selId = (selId == nameAry.length -1) ? 0 : selId + 1;
+
+		if (!clicked)
+			featureTo = setTimeout("switchFeature('" + nameAry[selId] + "', false)", 9000);
+		else
+			clearTimeout(featureTo);
+
+		document.getElementById(selName + 'Feature').style.display = 'block';
+		document.getElementById(selName + 'Feature').style.visibility = 'visible';
+	}
+
+	function printFeatures() {
+		for (var id in features) {
+			document.write('<div id="' + id + 'Feature">');
+			document.write('	<div class="floatLeft imageContainer">');
+			document.write('		<a href="javascript:void();"><img src="' + features[id].image + '" /></a>');
+			document.write('	</div>');
+			document.write('	<div class="floatRight textContainer">');
+			document.write('		<div class="floatRight counter">');
+			var i=1;
+
+			for(var id2 in features) {
+				var imgname = (id == id2) ? i : i + '_on';
+				document.write('<a href="javascript:switchFeature(\'' + id2 + '\', true);"><img src="//s3.amazonaws.com/images2.aws.barchart.com/barchart/' + imgname + '.gif" alt ="' + i + '" border="0" /></a>&nbsp;');
+				i++;
+			}
+			document.write('		</div>');
+			document.write('		<div class="floatLeft">');
+			document.write(				features[id].text);
+			document.write('		</div>');
+			document.write('	</div>');
+			document.write('</div>');
+
+			var feat = document.getElementById(id + 'Feature');
+			feat.style.display = 'none';
+			feat.style.visibility = 'hidden';
+		}
+		switchFeature ('first', false);
+	}
+</script>
+		<div class="carousel-container" id="carousel-container">
+		<div id="acCarousel" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+									<li class="active" data-slide-to="0" data-target="#acCarousel"></li>
+							</ol>
+			<div class="carousel-inner" role="listbox">
+														<div class="item active">
+													<img class="first-slide carousel-image" src= "https://s3.amazonaws.com/media.agricharts.com/sites/2098/Responsive Slides/Slide1Croppedb.JPG" alt="Carousel image"/>
+												<div class="container">
+															<div class="carousel-caption">
+									<div class="mission">
+<h2>OUR MISSION</h2>
+<h3>To return value to our members' corn through the best cost production in the renewable fuels industry.</h3>
+<div>&nbsp;</div>
+</div>								</div>	
+													</div>
+					</div>
+							</div>
+			<a class="left carousel-control" data-slide="prev" role="button" href="#acCarousel">
+				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" data-slide="next" role="button" href="#acCarousel">
+				<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+
+				</div>
+				<!---->
+				<!--<div class="clearfix"></div>-->
+							<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+						<div class="h4 title-block">Current Reminders From The Scale</div>
+	<div></div>
+
+				</div>
+				<!---->
+					<hr />
+				<!---->
+				<!--<div class="clearfix"></div>-->
+							<div class="row">
+					
+			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left">
+															<div>
+								<div class="h4 title-block"> </div>
+	<div><p style="text-align: center;"><strong><span style="font-size: 12pt;">PLEASE SEND BACK CONTRACTS!!</span></strong></p>
+<p style="text-align: center;">&nbsp;<strong><span style="font-size: 12pt;">FOR SALE&nbsp;:</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">SIOUXLAND ENERGY WILL BE SELLING&nbsp;</span></strong><strong><span style="font-size: 12pt;">TWO 35,000 BUSHEL PER HOUR CORN CRACKERS</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">PLEASE CALL THE OFFICE </span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">FOR MORE DETAILS</span></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp; &nbsp;</p></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+												</div>
+					
+			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left">
+															<div>
+								<div class="h4 title-block"> </div>
+	<div><div class="scale">
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">Scale Hours&nbsp;</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">MONDAY-FRIDAY</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">7:30AM-4:30PM</span></strong></p>
+</div></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+												</div>
+					
+			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left">
+															<div>
+								<div class="h4 title-block"> </div>
+	<div><p style="text-align: center;"><span style="color: #000000; font-family: georgia, palatino; font-size: 14pt;"><strong>Scale Hours</strong>&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #000000; font-family: georgia, palatino;"><strong>MONDAY-FRIDAY</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #000000; font-family: georgia, palatino;"><strong>7:30-4:30</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt;">&nbsp;&nbsp;</span></p></div>
+
+						</div>
+						<!---->
+							<hr />
+						<!---->
+												</div>
+			</div>
+	<div class="clearfix"></div>
+										<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+						<div class="h4 title-block"> </div>
+	<div><h4 style="text-align: center;">WHAT WE DO</h4>
+<div class="container">
+<div class="row">
+<div class="col-md-4" style="text-align: center;"><span style="text-decoration: underline;"><span style="text-decoration: underline;"><br /></span></span>
+<p><span>Siouxland Energy was formed to build, own, and operate an ethanol plant near Sioux Center, Iowa.</span></p>
+</div>
+<div class="col-md-4" style="text-align: center;"><span style="text-decoration: underline;"><span style="text-decoration: underline;"><br /></span></span>
+<p><span>The ethanol produced from corn is sold for blending with gasoline as an octane enhancer and as a fuel. In 2007 Siouxland Energy completed an expansion project that increased production capacity to 60,000,000 gallons annually.</span></p>
+</div>
+<div class="col-md-4" style="text-align: center;"><span style="text-decoration: underline;"><span style="text-decoration: underline;"><br /></span></span>
+<p><span>Within the last couple of years, Siouxland Energy has completed several debottlenecking and carbon intensity projects that allow the production of a low carbon fuel at a production pace of 70,000,000 gallons per year.</span></p>
+</div>
+</div>
+</div></div>
+
+				</div>
+				<hr />
+				<!--<div class="clearfix"></div>-->
+							<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+						<div class="h4 title-block"> </div>
+	<div><h4 style="text-align: center;">WHO WE ARE</h4>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 75%; text-align: left; vertical-align: middle;">
+<p style="font-weight: 400;">Siouxland Energy Cooperative is owned by 385 farmer members and is a closed cooperative. We are located in the northwest corner of Iowa, just west of Sioux Center.</p>
+<p style="font-weight: 400;">Sioux Center&rsquo;s growth and modernization has been steady through the years, with the population growing to about 7,579 residents, according to the U.S. Census Bureau. Ideally located in northwest Sioux County, Iowa, Sioux Center is close to Interstates 29 and 90, allowing business and industry to continue to expand. Agriculture is the root of Sioux Center and strongly supports the rural population with ag-related businesses like ours.</p>
+<p>&nbsp;</p>
+<p><a href="/history">Learn More</a></p>
+</td>
+<td style="text-align: center;"><img src="https://static.agriculture.com/s3fs-public/image/2018/02/28/ethanol-corn-illustration.jpg" class="n3VNCb" border="0" alt="Farm and Ethanol Groups Ask Trump to Intervene on RFS Waivers | Successful  Farming" width="100%" height="NaN" data-noaft="1" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>
+
+				</div>
+				<hr />
+				<!--<div class="clearfix"></div>-->
+							<!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">-->
+				<div>
+						<div class="h4 title-block"> </div>
+	<div><div class="squares">
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 33.3%; text-align: center; vertical-align: middle;"><a href="/edward">EDWARDS MARKET THOUGHTS</a></td>
+<td style="width: 33.3%; text-align: center; vertical-align: middle;">
+<p><a href="/industry-news">INDUSTRY NEWS</a></p>
+</td>
+<td style="width: 33.3%; text-align: center; vertical-align: middle;">
+<p><a href="/employment">CAREERS/JOBS</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a href="/scale-hours">SCALE HOURS</a></p>
+</td>
+<td style="text-align: center; vertical-align: middle;"><a href="/camera">DRIVEWAY CAMERA</a></td>
+<td style="text-align: center; vertical-align: middle;">
+<p><a href="/pages/custom.php?id=70782" target="_blank">SIGN UP FOR MOBILE ALERTS</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+
+				</div>
+				<hr />
+				<!--<div class="clearfix"></div>-->
+													<div class="bottom-ad" role="complimentary">
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container footer" role="contentinfo">
+			<div class="container">
+								<div class="disclaimer text-center">
+					<p class="small">&copy; 2022 Barchart.com, Inc.  All <a target="_blank" href="https://www.barchart.com/solutions" title="Market data provider site" aria-label="Market data provider site">market data</a> is hosted and powered by <a target="_blank" href="https://www.barchart.com/cmdty" title="Hosting provider" aria-label="Hosting provider">Barchart</a>.</p>
+	            	<p class="small">Information presented is provided 'as-is' and solely for informational purposes, not for trading purposes or advice, and is delayed. No representations are made by Barchart as to its informational accuracy or completeness. To see all exchange delays and to review Barchart’s full Terms and Conditions, and Disclaimer, please see Barchart's <a target="_blank" title="User agreement" aria-label="User agreement" href="https://www.barchart.com/solutions/company/terms-and-privacy">User Agreement</a>.</p>
+				</div>
+			</div>
+		</div>
+							<!-- Start Google Analytics tag -->
+			<script type="text/javascript" nonce="ac-sites-inline-js">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript" nonce="ac-sites-inline-js">
+				var pageTracker = _gat._getTracker("UA-74044933-1");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+			</script>
+				<script id="dataTable" type="text/javascript" src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script> <script defer type="text/javascript" src="https://cdn.datatables.net/1.10.11/js/dataTables.bootstrap.min.js"></script> <script defer type="text/javascript" src="https://cdn.datatables.net/responsive/2.0.2/js/dataTables.responsive.min.js"></script> <script defer id="dtResponsive" type="text/javascript" src="https://cdn.datatables.net/responsive/2.0.2/js/responsive.bootstrap.min.js"></script>		<script type="text/javascript" nonce="ac-sites-inline-js">
+			const expanded = parseInt() === 1;
+			jQuery.noConflict();
+			
+
+				(function($) {
+					
+					$('.topad > img').addClass('img-responsive');
+					var f = $('#acContentHolder').offset();
+					$('#carousel-container').css('left', '-'+f.left+'px');
+
+					$(window).resize(function() {
+						var f = $('#acContentHolder').offset();
+						$('#carousel-container').css('left', '-'+f.left+'px');
+					});
+
+					$('#menu-toggle').click(function(e) {
+						e.preventDefault();
+						$(this).toggleClass('glyphicon-triangle-left');
+						//$(this).toggleClass('show-hide-sidebar-pos');
+						$('#wrapper').toggleClass('toggled');
+					});
+
+					
+					document.getElementById('dtResponsive').addEventListener('load', function(){
+						$.extend(true, $.fn.dataTable.defaults, {
+							'dom': 't',
+							'searching': false,
+							'ordering': false,
+							'paging': false,
+							'info': false,
+						});
+
+						if (expanded) {
+							$('.table.dt-responsive').DataTable({
+								responsive: {
+									details: {
+										display: $.fn.dataTable.Responsive.display.childRowImmediate,
+										type: 'none',
+										target: ''
+									}
+								}
+							});
+						} else {
+							$('.table.dt-responsive').DataTable();
+						}
+					});
+		
+				})(jQuery);
+				// Copyright 2014-2015 Twitter, Inc.
+				// Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+				if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+					var msViewportStyle = document.createElement('style');
+					msViewportStyle.appendChild(
+						document.createTextNode(
+						'@-ms-viewport{width:auto!important}'
+						)
+					);
+					document.querySelector('head').appendChild(msViewportStyle);
+				}
+			
+		</script>
+	</body>
+</html>
+<script type="text/javascript" language="javascript" nonce="ac-sites-inline-js">
+	/*To enable/disable page refresh when window is not current active window.*/
+	var refresh = parseInt('1800');
+	
+	if (refresh && typeof(refresh) != 'undefined') {
+		var doRefresh = undefined;
+		(function($){
+			$(window).on('load focus blur', function(e){
+				var prevType = $(this).data('prevType');
+				var type = e.type;
+				if (prevType != e.type) {
+					switch(e.type) {
+						case 'blur':
+							clearInterval(doRefresh);
+							doRefresh = undefined;
+							break;
+						case 'focus':
+						default:
+							if (doRefresh == undefined) {
+								doRefresh = setInterval(function() {
+									window.location.reload(true);
+								}, refresh * 100);
+							}
+							break;
+					}
+				}
+				$(this).data('prevType', e.type);
+			});
+		})(jQuery);
+	}
+	
+	var scriptObjs = document.getElementsByTagName('script');
+	var i = 0;
+	var sideadCount = topadCount = bottomadCount = custom300Count = custom728Count = 0;
+	var searchString = "";
+	for(i = 0; i <= scriptObjs.length; i++) {
+		if (searchString.length > 0 && scriptObjs[i] && scriptObjs[i].innerHTML.indexOf(searchString) > -1 && scriptObjs[i].innerHTML.indexOf('<a') == -1 && scriptObjs[i].innerHTML.indexOf('<img') == -1) {
+			var parentDivClass = scriptObjs[i].parentNode.getAttribute('class');
+			if (parentDivClass != 'sidead' && parentDivClass != 'topad' && parentDivClass != 'bottomad') {
+				if (scriptObjs[i].innerHTML.indexOf('728x') > -1) {
+					custom728Count += 1;
+				} else {
+					custom300Count += 1;
+				}
+			} else {
+				window[parentDivClass + 'Count'] += 1;
+			}
+		}
+	}
+
+	jQuery.noConflict();
+	jQuery.ajax({
+		type: 'POST',
+		url: '/updateTrackingInfo.php',
+		dataType: 'json',
+		data: {
+			'customer': 2098,
+			'site': 3160,
+			'sideAd': sideadCount,
+			'topAd': topadCount,
+			'bottomAd': bottomadCount,
+			'custom300': custom300Count,
+			'custom728': custom728Count,
+			'view': 1
+		},
+		success: function() {
+		}
+	});
+
+	
+		(function(window, undefined) {
+			'use strict';
+
+			const document = window.document;
+
+			function BarchartCookieConsent() {
+				if (!(this instanceof BarchartCookieConsent)) {
+					return new BarchartCookieConsent();
+				}
+
+				this.initialize.call(this);
+
+				return this;
+			}
+
+			BarchartCookieConsent.prototype = {
+				initialize: function() {
+					if (!this.checkCookie('barchartCookieConsent')) {
+						this.displayNotification();
+					}
+				},
+
+				checkCookie: function(cookieName) {
+					if (document.cookie.split(';').filter(function(item) {
+						return item.trim().indexOf(cookieName+'=') == 0
+					}).length) {
+						return true;
+					} else {
+						return false;
+					}
+
+				},
+
+				setCookie: function(cookieName, value, duration) {
+					let expiration;
+					if (duration) {
+						let d = new Date();
+						d.setTime(d.getTime() + duration);
+						expiration = '; expires=' + d.toGMTString();
+					} else {
+						expiration = '';
+					}
+					document.cookie = cookieName+'='+value+expiration+'; path=/';
+				},
+
+				displayNotification: function() {
+					this.setStyling();
+
+					let html = '<div class="bc-cookie-consent-container">';
+					html += '<p>We use cookies to optimize site functionality and give you the best possible experience. Learn more about our <a target="_blank" href="https://www.barchart.com/solutions/company/terms-and-privacy">Privacy Policy</a>.</p>';
+					html += '<div><button type="button" id="bc-cookie-consent-accept">Accept</button></div>';
+					html += '</div>';
+					let tmpElem = document.createElement('div');
+					tmpElem.id = 'bc-cookie-consent-notification';
+					tmpElem.innerHTML = html;
+					document.body.appendChild(tmpElem);
+
+					this.bindAction();
+
+				},
+
+				setStyling: function() {
+					let css;
+					css += '#bc-cookie-consent-notification button:focus, #bc-cookie-consent-notification [input="button"]:focus, #bc-cookie-consent-notification a:focus { outline: unset; outline: none; text-decoration: none; }';
+					css += '#bc-cookie-consent-notification button, #bc-cookie-consent-notification [input="button"] { position: relative; display: inline-block; height: 30px; padding: 0 15px; border: 0; background: #4285f4; font-size: 16px; line-height: 28px; color: #fff; text-decoration: none; vertical-align: middle; cursor: pointer; border-radius: 0; -webkit-appearance: none; -webkit-border-radius: 0; -webkit-backface-visibility: hidden; backface-visibility: hidden; -moz-osx-font-smoothing: grayscale; }';
+					css += '#bc-cookie-consent-notification button:hover, #bc-cookie-consent-notification [input="button"]:hover, #bc-cookie-consent-notification a { text-decoration: none; }';
+					css += '#bc-cookie-consent-notification button:after, #bc-cookie-consent-notification [input="button"]:after { position: absolute; top: 0; right: 52%; bottom: 0; left: 52%; z-index: -1; border-bottom: 4px solid #14428d; background: rgba(20, 66, 141, .3); content: ""; }';
+					css += '#bc-cookie-consent-notification button:hover:after, #bc-cookie-consent-notification [input="button"]:hover:after, #bc-cookie-consent-notification button:focus:after, #bc-cookie-consent-notification [input="button"]:focus:after { right: 0; left: 0; }';
+					css += '#bc-cookie-consent-notification { position: fixed; bottom: 0; left: 0; z-index: 9999; overflow-x: hidden; overflow-y: auto; width: 100%; max-height: 100%; padding: 30px 0; background: #404040; opacity: 0.93; text-align: center; }';
+					css += '#bc-cookie-consent-notification * { padding: 0; margin: 0; outline: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container { width: 90%; margin: 0 auto; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > p { font-size: 16px; line-height: 1.4; color: #fff; font-weight: 400; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > div { padding-top: 10px; }';
+					css += '@media only screen and (max-width: 767px) {';
+					css += '#bc-cookie-consent-notification { padding: 15px 0; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container { width: 96%; }';
+					css += '#bc-cookie-consent-notification .bc-cookie-consent-container > p { font-size: 16px; }';
+					css += '}';
+
+					let styleElem = document.createElement('style');
+					styleElem.type = 'text/css';
+					if (styleElem.styleSheet) {
+						styleElem.styleSheet.cssText = css;
+					} else {
+						styleElem.appendChild(document.createTextNode(css));
+					}
+					document.getElementsByTagName('head')[0].appendChild(styleElem);
+				},
+
+				bindAction: function() {
+					let self = this;
+					const btnElem = document.getElementById('bc-cookie-consent-accept');
+					if (typeof(btnElem) === 'object') {
+						this.createEvent(btnElem, 'click', function(e) {
+							if (e.preventDefault) {
+								e.preventDefault();
+							}
+							self.setCookie('barchartCookieConsent', 'YES', (365 * 24 * 60 * 60 * 1000));
+							document.getElementById('bc-cookie-consent-notification').remove();
+							return false;
+						});
+					}
+				},
+
+				createEvent: function(elem, action, fn) {
+					if (elem.addEventListener) {
+						elem.addEventListener(action, fn, false);
+					} else if (elem.attachEvent) {
+						elem['e' + action + fn] = fn;
+						elem[action + fn] = function() { elem['e' + action + fn](window.event); };
+						elem.attachEvent('on' + action, elem[action + fn]);
+					} else {
+						elem['on' + action] = elem['e' + action + fn];
+					}
+				}
+			};
+			window.BarchartCookieConsent = BarchartCookieConsent;
+		})(window);
+
+		window.onload = function() {
+			let enablePrompt = parseInt("0");
+			if (enablePrompt === 1) {
+				BarchartCookieConsent = BarchartCookieConsent();
+			}
+		}
+	
+	
+</script>

@@ -1,0 +1,477 @@
+
+<!doctype html>
+<html lang="en">
+    <head data-currentpage="sitemap" data-ticker="null">
+
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="google-site-verification" content="6jS_NxMGiRUm_QLmXQBu3iAlZyOkF6ZKWcb8S0MyLq0" />
+<meta name="google" value="notranslate">
+<title>Clough Global - Site Map</title>
+<base href="https://www.cloughglobal.com/site-template/" /><!--[if lte IE 6]></base><![endif]-->
+
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="assets/css/c3.css">
+<!--<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet"> -->
+
+<!-- favicon generated using realfavicongenerator.net -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="assets/images/favicon/manifest.json" crossorigin="use-credentials">
+<link rel="mask-icon" href="assets/images/favicon/safari-pinned-tab.svg" color="#0a85c7">
+<link rel="shortcut icon" href="assets/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="assets/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<script type="text/javascript" src="assets/javascript/moment.min.js"></script>
+<script type="text/javascript" src="assets/javascript/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="assets/javascript/jquery1-3.easing.min.js"></script>
+<script type="text/javascript" src="assets/javascript/api_key.php"></script>
+<script type="text/javascript" src="assets/javascript/fund_map.js"></script>
+<script type="text/javascript" src="assets/javascript/external-sites-v1.0.1.min.js"></script>
+<script type="text/javascript" src="assets/javascript/utilities.js"></script>
+<script type="text/javascript" src="assets/javascript/settings__head.js"></script>
+<script type="text/javascript" src="assets/javascript/c3.min.js"></script>
+<script type="text/javascript" src="assets/javascript/d3.v3.min.js"></script>
+<script type="text/javascript" src="assets/javascript/table-overflow.js"></script>
+<script type="text/javascript" src="assets/javascript/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="assets/javascript/swiped-events.js"></script>
+<script type="text/javascript" src="assets/javascript/documents-v3.1.0.min.js" ></script>
+<script type="text/javascript" src="assets/javascript/dailyprice-v2.2.2.min.js"></script>
+<script type="text/javascript" src="assets/javascript/tabs.js"></script>
+<script type="text/javascript" src="assets/javascript/waypoints-header.js"></script>
+<script type="text/javascript" src="assets/javascript/googleanalytics.js"></script>
+<script type="text/javascript" src="assets/javascript/api_INIT-v1.2.2.min.js"></script>
+
+
+
+
+
+
+	
+    </head>
+
+    <body>
+
+      <header id="mainHeader">
+        
+
+
+<!--  MAIN NAV  -->
+
+
+<div class="full-width" id="navamongus">
+	
+	<div class="meta-nav__wrapper">
+		<div class="container">
+			<ul class="meta-nav">
+				<li class="meta-nav__item"><a href="../" class="meta-nav__link" tabindex="0">Home</a></li>
+				<li class="meta-nav__item"><a href="../" class="button meta-nav__link modal-contact-link" tabindex="0">Contact Us</a></li>
+			</ul>
+		</div>
+	</div>
+	
+	<!--  NAV  -->
+   
+    <div class="nav_container">
+
+        <a href="../" class="site-logo" tabindex="0">
+        	<img src="assets/images/clough-capital-logo.svg" width="240px" height="60px" alt="Clough Global Partners LP">
+        </a>
+
+		<ul id="main-nav">
+ 	
+            <li class="main-nav-item" >
+            	<a class="main-nav-dropdown__link" tabindex="0">The Funds</a>
+				 <div class="main-nav-dropdown" >
+					<ul class="product-list-2">
+						<li class="header">CLOSED-END FUNDS</li>
+					</ul>
+					<main-nav-divider></main-nav-divider>
+					<ul class="product-list">
+						<li class="header">OPEN-END FUNDS</li>
+					</ul>
+					<div class="main-nav-dropdown__bg"></div>
+				</div>
+            </li>
+           
+            
+            
+			<li class="main-nav-item" >
+				<a href="../the-advisor" class="main-nav-no_dropdown__link">The Advisor</a>
+            </li>
+    
+            <li class="main-nav-item">
+            	<a class="main-nav-dropdown__link" tabindex="0">Resources</a>
+            	<div class="main-nav-dropdown" >
+					<ul class="resource-list-2">
+						<li class="header">CLOSED-END FUND RESOURCES</li>
+					</ul>
+					<main-nav-divider></main-nav-divider>
+					<ul class="resource-list">
+						<li class="header">OPEN-END FUND RESOURCES</li>
+					</ul>
+					<div class="main-nav-dropdown__bg"></div>
+				</div>
+            </li>
+                       
+
+		</ul>
+	
+    </div>
+    
+    <mobileNavButton aria-label="Menu" tabindex="0"></mobileNavButton>
+</div>
+
+
+<!-- script populates product menu from fund_map.js -->
+<script type="text/javascript" src="assets/javascript/settings__masthead.js"></script>
+
+
+
+
+
+
+
+      </header>
+      
+      <main id="mainContent">
+
+        <div class="main_content">
+
+                    <div class="hero-short hero-short__img-3">
+	<div class="container">
+
+		<div class="col span_6_of_10 lg-full">
+			<h2 class="hero-short__ticker--static mod1">Site Map</h2>
+		</div>
+
+	</div>
+</div>
+
+<div class="container inner-content clearfix">
+	<spacer></spacer>
+	<div class="row">
+		<div class="col span_1_of_2">
+			<p><a href="../index" class="sitemap-heading">Index</a></p>
+				<p class="indent"><a href="../index?tab=tab2__daily-data">Closed-End Funds Daily Data</a></p>
+			<p><a href="../contact-us" class="sitemap-heading">Contact Us</a></p>
+		</div>
+		<div class="col span_1_of_2">
+			<p ><a href="../the-advisor" class="sitemap-heading">The Advisor</a></p>
+				<p class="indent"><a href="../bios">Bios</a></p>
+			<p ><a href="../glossary" class="sitemap-heading">Glossary</a></p>
+			<p><a href="../risks" class="sitemap-heading">Risks</a></p>
+			
+		</div>
+	</div>
+	<div class="row">
+		<div class="col span_1_of_2">
+			<p ><a href="../glv" class="sitemap-heading">GLV</a></p>
+				<p class="indent"><a href="../glv?tab=tab2__performance">Cumulative Performance</a></p>
+				<p class="indent"><a href="../glv?tab=tab3__performance">Calendar Year Performance</a></p>
+				<p class="indent"><a href="../glv?tab=tab2__holdings">All Holdings</a></p>
+				<p class="indent"><a href="../glv?tab=tab2__distributions">Previous Years Distributions</a></p>
+				<p class="indent"><a href="../resources/glv">Resources</a></p>
+				<p class="indent"><a href="../resources/glv?tab=tab2__resources_news">Fund News - Previous Years</a></p>
+		</div>
+		<div class="col span_1_of_2">
+			<p ><a href="../glq" class="sitemap-heading">GLQ</a></p>
+				<p class="indent"><a href="../glq?tab=tab2__performance">Cumulative Performance</a></p>
+				<p class="indent"><a href="../glq?tab=tab3__performance">Calendar Year Performance</a></p>
+				<p class="indent"><a href="../glq?tab=tab2__holdings">All Holdings</a></p>
+				<p class="indent"><a href="../glq?tab=tab2__distributions">Previous Years Distributions</a></p>
+				<p class="indent"><a href="../resources/glq">Resources</a></p>
+				<p class="indent"><a href="../resources/glq?tab=tab2__resources_news">Fund News - Previous Years</a></p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col span_1_of_2">
+			<p ><a href="../glo" class="sitemap-heading">GLO</a></p>
+				<p class="indent"><a href="../glo?tab=tab2__performance">Cumulative Performance</a></p>
+				<p class="indent"><a href="../glo?tab=tab3__performance">Calendar Year Performance</a></p>
+				<p class="indent"><a href="../glo?tab=tab2__holdings">All Holdings</a></p>
+				<p class="indent"><a href="../glo?tab=tab2__distributions">Previous Years Distributions</a></p>
+				<p class="indent"><a href="../resources/glo">Resources</a></p>
+				<p class="indent"><a href="../resources/glo?tab=tab2__resources_news">Fund News - Previous Years</a></p>
+		</div>
+		<div class="col span_1_of_2">
+			<p ><a href="../long-short" class="sitemap-heading">Clough Global Long/Short Fund</a></p>
+				<p class="indent"><a href="../long-short?tab=tab2__daily-data">Class Inv Daily Data</a></p>
+				<p class="indent"><a href="../long-short?tab=tab3__daily-data">Class A Daily Data</a></p>
+				<p class="indent"><a href="../long-short?tab=tab4__daily-data">Class C Daily Data</a></p>
+				<p class="indent"><a href="../long-short?tab=tab2__performance">Cumulative Performance</a></p>
+				<p class="indent"><a href="../long-short?tab=tab3__performance">Calendar Year Performance</a></p>
+				<p class="indent"><a href="../long-short?tab=tab2__holdings">All Holdings</a></p>
+				<p class="indent"><a href="../long-short?tab=tab2__distributions">Previous Years Distributions</a></p>
+				<p class="indent"><a href="../resources/long-short">Resources</a></p>
+				<p class="indent"><a href="../regulatory-reports">Regulatory Reports</a></p>
+		</div>
+	</div>
+	
+	<style>
+		.sitemap-heading {
+			text-transform: uppercase;
+			font-style: italic;
+			font-weight: bold;
+		}
+	</style>	
+	
+	
+	
+	<spacer></spacer>
+</div>
+
+<div id="contentEndTrigger"></div>
+
+<div id="tinyTitle">cont</div>
+
+<ul id="tinyNav">
+	<li id="tinyNav_backtotop" cont="Back to Top"><img src="assets/images/arrow-right.svg" tabindex="0" alt="Back to Top" /></li>
+</ul>
+
+
+<script type="text/javascript" src="assets/javascript/settings__tinyNav.js"></script>
+	
+
+       
+        </div>
+
+      </main>
+      
+      
+
+<modalcontactwrapper>
+	<div id="modalOverlay">
+		<modal--contact>
+			<modal--close tabindex="0"><img src="assets/images/btn-close--modal.svg" width="25px" height="25px" aria-label="Close Button" alt="Close Button" /></modal--close>
+			<modal--overflow-scroll>
+				
+				
+				<div class="footerFormWrapper">
+
+					<div class="tabs" id="tabs__contact">
+
+						<ul class="tabs__list">
+							<li class="tabs__list-item">
+								<a class="tabs__tab active" data-tabid="tab1__contact">CONTACT INFO</a>
+							</li>
+							<li class="tabs__list-item">
+								<a class="tabs__tab" data-tabid="tab2__contact">CONTACT US</a>
+							</li>
+						</ul>
+
+
+						<div id="tab1__contact" class="tabs__tab-content">
+							
+							<h3 class="mod1 underline">Closed-End Funds</h3><br/>
+							Clough Global Closed-End Funds<br/>
+							1290 Broadway, Suite 1000<br/>
+							Denver, CO 80203<br/><br/>
+							<a href="tel:18554256844">1.855.425.6844</a><br/><br/>
+							<a href="mailto:SalesInfo@CloughGlobal.com">SalesInfo@CloughGlobal.com</a><br/>
+
+							<h3 class="mod1 underline">Open-End Funds</h3><br/>
+							Clough Global Long/Short Fund<br/>
+							P.O. Box 1920 <br/>
+							Denver, CO 80201 <br/><br/>
+							
+							<a href="tel:18554256844">1.855.425.6844</a><br/><br/>
+							<a href="mailto:SalesInfo@CloughGlobal.com">SalesInfo@CloughGlobal.com</a><br/>
+
+							<h3 class="mod1 underline">Advisor</h3><br/>
+							Clough Capital Partners, L.P.<br/>
+							53 State Street, 27th Floor<br/>
+							Boston MA 02109<br/><br/>
+
+							<a href="tel:6172043400">617.204.3400</a><br/><br/>
+							<a href="mailto:investorrelations@cloughcapital.com">investorrelations@cloughcapital.com</a><br/>
+
+						</div>
+
+						<div id="tab2__contact" class="tabs__tab-content">
+							<br/><br/>
+							
+							<!-- <div id="mathError"></div> -->
+	
+	<div id="formsub" class="formSub"><div class='alert-error'><strong><div class='closeX'>×</div>Please correct the following error(s):</strong><ul></ul></div><style type="text/css">label span.required { color: #B94A48; }span.help-inline, span.help-block { color: #888; font-size: .9em; font-style: italic; }</style><form action="processform.php" id="formContact" method="post" class="contactform form-inline"><label for="formContact-element-0">form_name</label> <input type="text" name="form_name" autocomplete="off" class="hidden" tabindex="-1" id="formContact-element-0"/>  <div grid="2">  <div class="grid-item-1"> <label for="formContact-element-3"><span class="required">* </span>First Name</label> <input type="text" name="firstname" required size="32" id="formContact-element-3"/>  </div>  <div class="grid-item-2 gridfix-ie"> <label for="formContact-element-6"><span class="required">* </span>Last Name</label> <input type="text" name="lastname" required size="32" id="formContact-element-6"/>  </div>  <div class="grid-item-3"> <label for="formContact-element-9">Phone</label> <input type="tel" name="phone" size="32" id="formContact-element-9"/>  </div>  <div class="grid-item-4 gridfix-ie"> <label for="formContact-element-12"><span class="required">* </span>Email</label> <input type="email" name="email" required size="32" id="formContact-element-12"/>  </div>  <div class="grid-item-5">  <fieldset>  <legend>Quarterly Letter Signup?</legend>  <label class="checkbox"> <input id="formContact-element-17-0" type="checkbox" name="quarterly_letter[]" value="Yes"/> Yes </label>   </fieldset>  <fieldset>  <legend>Investment Professional?</legend>  <label class="checkbox"> <input id="formContact-element-21-0" type="checkbox" name="investment-professional[]" value="✓"/> Select if you are an investment professional </label>   </fieldset>  </div>  <div class="grid-item-6">  <fieldset>  <legend>What funds are you interested in?</legend>  <label class="checkbox"> <input id="formContact-element-27-0" type="checkbox" name="fund_interest_GLV[]" value="✓"/> Clough Global Dividend and Income Fund </label>   <label class="checkbox"> <input id="formContact-element-28-0" type="checkbox" name="fund_interest_GLQ[]" value="✓"/> Clough Global Equity Fund </label>   <label class="checkbox"> <input id="formContact-element-29-0" type="checkbox" name="fund_interest_GLO[]" value="✓"/> Clough Global Opportunities Fund </label>   <label class="checkbox"> <input id="formContact-element-30-0" type="checkbox" name="fund_interest_Long-Short[]" value="✓"/> Clough Global Long/Short Fund </label>   </fieldset>  <br/></div>  </div>  <div class="grid-item-7 gridfix-ie">  <span id="charNum">1000/1000 Characters Remaining</span> <label for="formContact-element-36">Comments</label> <textarea rows="5" name="comments" placeholder=" " width="100%" maxlength="1000" class="form__comments" id="formContact-element-36"></textarea>  </div>  <div class="grid-item-8">  <div class="form-actions">  <input type="submit" value="Submit" name class="form__submit button--primary btn btn-primary" id="formContact-element-40"/>  <input type='button' value='Cancel' class='form__cancel button--tertiary'>  </div>  </div></form><script type="text/javascript">jQuery(document).ready(function() {		jQuery("#formContact").bind("submit", function() { 
+			jQuery(this).find("input[type=submit]").attr("disabled", "disabled"); 
+		});			jQuery("#formContact").bind("submit", function() { jQuery("#formContact .alert-error").remove();				jQuery.ajax({ 
+					url: "processform.php", 
+					type: "post", 
+					data: jQuery("#formContact").serialize(), 
+					success: function(response) { 
+						if(response != undefined && typeof response == "object" && response.errors) {		var errorSize = response.errors.length;
+		if(errorSize == 1)
+			var errorFormat = "error was";
+		else
+			var errorFormat = errorSize + " errors were";
+
+		var errorHTML = '<div class="alert alert-error"><a class="close" data-dismiss="alert" href="#">×</a><strong class="alert-heading">The following ' + errorFormat + ' found:</strong><ul>';
+		for(e = 0; e < errorSize; ++e)
+			errorHTML += '<li>' + response.errors[e] + '</li>';
+		errorHTML += '</ul></div>';
+		jQuery("#formContact").prepend(errorHTML);							jQuery("html, body").animate({ scrollTop: jQuery("#formContact").offset().top }, 500 ); 
+						} 
+						else {parseJSONResponse(response);						} 
+						jQuery("#formContact").find("input[type=submit]").removeAttr("disabled"); 
+					}	
+				}); 
+				return false; 
+			});}); </script></div>
+
+<link rel="stylesheet" href="assets/css/c3.css">
+
+<script type="text/javascript" src="assets/javascript/settings__contact_form.js" ></script>
+
+
+
+
+
+
+
+
+						</div>
+
+					</div>
+
+				</div>
+				
+				
+				
+				
+				
+			</modal--overflow-scroll>
+		</modal--contact>
+	</div> 
+</modalcontactwrapper>
+
+
+<script src="assets/javascript/modal--contact.js"></script>	
+
+
+
+<footer id="mainFooter">
+
+	<div class="footer-nav">
+		<div class="container clearfix">
+			
+			<div class="col span_8_of_12 footer__call-us">
+			<div class="footer_container">CLOSED-END FUNDS<br/><a href="tel:18554256844" alt="CLOSED-END FUNDS 1 855 425 6844" target="_blank">1-855-425-6844</a>  </div>
+			
+			<div class="footer_line"></div>
+			<div class="footer_container">OPEN-END FUNDS<br/><a href="tel:18554256844" alt="OPEN-END FUNDS 1 855 425 6844" target="_blank">1-855-425-6844</a>
+			</div>
+			
+			<div class="footer_line"></div>
+			<div class="footer_container">ADVISOR<br/><a href="tel:6172043400" alt="ADVISOR 617 204 3400" target="_blank">617-204-3400</a>
+			</div>
+			</div>
+			<div class="col span_4_of_12 footer__contact-us">
+				<button class="button--primary modal-contact-link_footer">Contact Us</button>
+			</div>
+
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="disclosure">
+			<p>&nbsp;</p>
+			<p><a href="../glossary" aria-label="Glossary" class="disclosure_link_mod1">Glossary</a></p>
+			<p><a href="../sitemap" aria-label="Site Map" class="disclosure_link_mod1">Site Map</a></p>
+			<p><b class="header">Disclosure</b></p>
+			
+			<p>For current performance information click here: 
+				
+				<a href="../glv">GLV</a> 
+				<a href="../glq">GLQ</a> 
+				<a href="../glo">GLO</a> 
+				<a href="../long-short">Clough Global Long/Short Fund</a> 
+				
+			</p>
+
+			<p>For current holding information click here: 
+				
+				<a href="../glv">GLV</a> 
+				<a href="../glq">GLQ</a> 
+				<a href="../glo">GLO</a> 
+				<a href="../long-short">Clough Global Long/Short Fund</a>
+				
+			</p>
+
+			<p>Additional information regarding the risks of this investment is available <a href="../risks">here</a>.</p>
+			
+			<p><b>An investor should consider investment objectives, risks, charges and expenses carefully before investing. There are risks associated with investing, including possible loss of principal. From this website, for the Clough Global Closed-End Funds download an <a  href="" data-location="GLV" data-type="ar" data-key="url" aria-label="Click here to read the Annual Report">Annual Report</a> or <a  href="" data-location="GLV" data-type="sar" data-key="url" aria-label="Click here to read the Semi-Annual report">Semi-Annual Report</a> or for the Clough Global Long/Short Fund download a <a href="" data-location="CLOAX" data-type="pro" data-key="url" aria-label="Click here to read the Prospectus">Prospectus</a> which contains this and other information. Read them carefully before investing.</b></p>
+			
+			<p>Investing involves risks, including loss of principal. The Fund's use of derivatives (which may include forward foreign currency contracts, futures, participation notes, and swaps) may reduce the Fund's returns and/or increase the volatility of the Fund's net asset value. Foreign investing involves special risks such as currency fluctuations and political uncertainty.</p>
+			<p>The Clough Global Equity Fund, the Clough Global Dividend and Income Fund and the Clough Global Opportunities Fund are closed-end funds and closed-end funds do not continuously issue shares for sale as open-end mutual funds do. Since the initial public offering, the Funds now trade in the secondary market. Investors wishing to buy or sell shares need to place orders through an intermediary or broker. The share price of a closed-end fund is based on the market's value.</p>
+			<p>ALPS Portfolio Solutions Distributor, Inc. is the distributor for the Clough Global Long/Short Fund. Clough Capital Partners L.P. is the Investment Adviser.</p>
+			<p>The Clough Global Closed-End Funds and the Clough Global Long/Short Fund: <a href="http://finra.org" target="_blank">FINRA</a> Member Firm, ALPS Portfolio Solutions Distributor, Inc., 1290 Broadway, Ste. 1000, Denver, CO 80203.</p>
+			
+			<p>Secondary market support provided to the Closed-End Funds by ALPS Portfolio Solutions Distributor, Inc.</p>
+			
+			<p id="copyrights">© 2008 - 2021 - ALPS Advisors Inc. - All rights reserved.</p>
+			
+			<spacer></spacer>
+			
+		</div>
+		
+		<!-- <p>©  CREATIVE FUNDS | All rights reserved.</p> -->
+	</div>
+
+</footer>
+
+
+<script type="text/javascript" src="assets/javascript/settings__footer.js"></script>
+
+
+
+<div id="mobilemenu">
+
+	<div class="logoBarMobile">
+		<!--<a href="../"><img src="assets/images/clough-capital-logo.svg" width="200px" height="60px" alt="Clough Capital Partners LP"></a>-->
+		<img src="assets/images/btn-close.svg" width="20" height="20" class="logoBarMobile__x" alt="Close Mobile Nav" tabindex="0" />
+	</div>
+
+	<div class="mainNavMobile">
+
+		<mmh1 class="icon" tabindex="0">The Funds</mmh1>
+		<div id="mobileProductList" class="mainNavMobile__sub">
+			
+		</div>
+
+		<a href="../the-advisor" class="mainNavMobile__link">The Advisor</a>
+
+		<mmh1 class="icon" tabindex="0">Resources</mmh1>
+		<div id="mobileResourcesList" class="mainNavMobile__sub">
+			
+		</div>
+
+		<a href="" class="mainNavMobile__link modal-contact-link" >Contact</a>
+		
+	</div>
+
+	
+	<collapseMenuButton>
+		<collapseArrow></collapseArrow>
+	</collapseMenuButton>
+	
+	<closeBlock></closeBlock>
+
+</div>
+
+
+<script type="text/javascript" src="assets/javascript/settings__mobileNav.js"></script>
+
+
+
+
+
+
+
+    </body>
+
+</html>

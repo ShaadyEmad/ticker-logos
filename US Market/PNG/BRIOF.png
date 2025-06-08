@@ -1,0 +1,2060 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+                <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="profile" href="https://gmpg.org/xfn/11" />
+        <link rel="pingback" href="https://www.magnaterraminerals.com/MTT" />
+        <link rel="icon" href="/template_files/1364/images/favicon.ico" sizes="32x32" />
+        <link rel="icon" href="/template_files/1364/images/favicon.ico" sizes="192x192" />
+        <link rel="shortcut icon" type="image/x-icon" href="/template_files/1364/images/favicon.ico"/>
+        <title>Home &#8211; Magna Terra Minerals</title>
+        <!-- Speed of this site is optimised by WP Performance Score Booster plugin v1.9.2.2 - https://dipakgajjar.com/wp-performance-score-booster/ -->
+        <link rel="dns-prefetch" href="//cdn.linearicons.com" />
+        <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="//s.w.org" />
+        <script type="text/javascript">
+            window._wpemojiSettings = {
+                baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
+                ext: ".png",
+                svgUrl: "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
+                svgExt: ".svg",
+                source: { concatemoji: "\/template_files\/1364\/wp-includes\/js\/wp-emoji-release.min.js" },
+            };
+            /*! This file is auto-generated */
+            !(function (e, a, t) {
+                var r,
+                    n,
+                    o,
+                    i,
+                    p = a.createElement("canvas"),
+                    s = p.getContext && p.getContext("2d");
+                function c(e, t) {
+                    var a = String.fromCharCode;
+                    s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, e), 0, 0);
+                    var r = p.toDataURL();
+                    return s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, t), 0, 0), r === p.toDataURL();
+                }
+                function l(e) {
+                    if (!s || !s.fillText) return !1;
+                    switch (((s.textBaseline = "top"), (s.font = "600 32px Arial"), e)) {
+                        case "flag":
+                            return (
+                                !c([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) &&
+                                !c([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) &&
+                                !c(
+                                    [55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447],
+                                    [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]
+                                )
+                            );
+                        case "emoji":
+                            return !c([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]);
+                    }
+                    return !1;
+                }
+                function d(e) {
+                    var t = a.createElement("script");
+                    (t.src = e), (t.defer = t.type = "text/javascript"), a.getElementsByTagName("head")[0].appendChild(t);
+                }
+                for (i = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, o = 0; o < i.length; o++)
+                    (t.supports[i[o]] = l(i[o])), (t.supports.everything = t.supports.everything && t.supports[i[o]]), "flag" !== i[o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[i[o]]);
+                (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag),
+                    (t.DOMReady = !1),
+                    (t.readyCallback = function () {
+                        t.DOMReady = !0;
+                    }),
+                    t.supports.everything ||
+                        ((n = function () {
+                            t.readyCallback();
+                        }),
+                        a.addEventListener
+                            ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1))
+                            : (e.attachEvent("onload", n),
+                              a.attachEvent("onreadystatechange", function () {
+                                  "complete" === a.readyState && t.readyCallback();
+                              })),
+                        (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji)));
+            })(window, document, window._wpemojiSettings);
+        </script>
+        <style type="text/css">
+            img.wp-smiley,
+            img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 0.07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+            }
+        </style>
+        <link rel="stylesheet" id="wp-block-library-css" href="/template_files/1364/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="contact-form-7-css" href="/template_files/1364/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="mc4wp-form-styles-builder-css" href="/template_files/1364/wp-content/uploads/mc4wp-stylesheets/bundle.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="parent-style-css" href="/template_files/1364/wp-content/themes/themetrust-weston/style.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="child-style-css" href="/template_files/1364/wp-content/themes/themetrust-weston-child/style.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-style-css" href="/template_files/1364/wp-content/themes/themetrust-weston-child/style.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-js-css-css" href="/template_files/1364/wp-content/themes/themetrust-weston/css/js.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-prettyphoto-css" href="/template_files/1364/wp-content/themes/themetrust-weston/css/prettyPhoto.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="superfish-css" href="/template_files/1364/wp-content/themes/themetrust-weston/css/superfish.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-woocommerce-css" href="/template_files/1364/wp-content/themes/themetrust-weston/css/woocommerce.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-font-awesome-css" href="/template_files/1364/wp-content/themes/themetrust-weston/css/font-awesome.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="weston-linearicons-css" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css" type="text/css" media="all" />
+        <link
+            rel="stylesheet"
+            id="weston-fonts-css"
+            href="//fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7COpen+Sans%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext"
+            type="text/css"
+            media="all"
+        />
+        <link rel="stylesheet" id="vc_plugin_table_style_css-css" href="/template_files/1364/wp-content/plugins/easy-tables-vc/assets/css/style.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="vc_plugin_themes_css-css" href="/template_files/1364/wp-content/plugins/easy-tables-vc/assets/css/themes.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="js_composer_front-css" href="/template_files/1364/wp-content/plugins/js_composer/assets/css/js_composer.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="plugin_style-css" href="/template_files/1364/wp-content/plugins/stock-price/css/style.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="rt_frontend_style-css" href="/template_files/1364/wp-content/plugins/automatic-responsive-tables/css/style.css" type="text/css" media="all" />
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" id="art_ie_stylesheet-css" href="/template_files/1364/wp-content/plugins/automatic-responsive-tables/css/style-ie.css" type="text/css" media="all" />
+        <![endif]-->
+        <script>
+            if (document.location.protocol != "https:") {
+                document.location = document.URL.replace(/^http:/i, "https:");
+            }
+        </script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/jquery/jquery.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/plugins/the-preloader/js/preloader-script.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/plugins/automatic-responsive-tables/js/script.js"></script>
+        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/template_files/1364/wp-includes/wlwmanifest.xml" />
+        <meta name="generator" content="WordPress 5.4.2" />
+        <link rel="canonical" href="https://www.magnaterraminerals.com/MTT" />
+        <link rel="shortlink" href="https://www.magnaterraminerals.com/MTT" />
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,900" rel="stylesheet" />
+
+        <div class="pre_header_stock_container" style="background-color: #100c53;opacity:1 !important" data-body="#site-wrap">
+            <div class="body-wrap">
+                <div class="stock-widgets">
+                    <div class="stock-widgets-inner">
+                        <div class="textwidget">
+                            <div class="vc_row wpb_row vc_row-fluid">
+                                <div style="" class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner">
+                                        <div class="wpb_wrapper">
+                                            <div class="vc_icon_element vc_icon_element-outer mail vc_icon_element-align-left">
+                                                <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey">
+                                                    <span class="vc_icon_element-icon fa fa-paper-plane" style="color: #ffc43c !important;"></span>
+                                                    <a class="vc_icon_element-link" href="https://www.magnaterraminerals.com/MTT/contact_us" title="" target="_self" rel="noopener noreferrer"></a>
+                                                </div>
+                                            </div>
+                                            <div class="vc_icon_element vc_icon_element-outer linkedin vc_icon_element-align-left">
+                                                <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey">
+                                                    <span class="vc_icon_element-icon fa fa-linkedin" style="color: #ffc43c !important;"></span>
+                                                    <a class="vc_icon_element-link" href="https://www.linkedin.com/company/magna-terra-minerals" title="" target="_blank" rel="noopener noreferrer"></a>
+                                                </div>
+                                            </div>
+                                            <div class="vc_icon_element vc_icon_element-outer facebook vc_icon_element-align-left">
+                                                <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey">
+                                                    <span class="vc_icon_element-icon fa fa-facebook" style="color: #ffc43c !important;"></span><a class="vc_icon_element-link" href="https://www.facebook.com/Megna-Terra-Minerals-Inc-TSX-MTT-243831656729074" title="" target="_blank" rel="noopener noreferrer"></a>
+                                                </div>
+                                            </div>
+                                            <div class="vc_icon_element vc_icon_element-outer twitter vc_icon_element-align-left">
+                                                <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey">
+                                                    <span class="vc_icon_element-icon fa fa-twitter" style="color: #ffc43c !important;"></span><a class="vc_icon_element-link" href="https://twitter.com/Magna_Terra_MTT" title="" target="_blank" rel="noopener noreferrer"></a>
+                                                </div>
+                                            </div>
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="stock_container">
+                    MTT.V <span><script src="https://www.magnaterraminerals.com/MTT/stock_quote_iframe?template=stock_widget_price&format=js"></script></span>
+                </div>
+            </div>
+        </div>
+
+        <style type="text/css">
+            #wptime-plugin-preloader {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: url("") no-repeat #ffffff 50%;
+                -moz-background-size: 64px 64px;
+                -o-background-size: 64px 64px;
+                -webkit-background-size: 64px 64px;
+                background-size: 64px 64px;
+                z-index: 99998;
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+
+        <noscript>
+            <style type="text/css">
+                #wptime-plugin-preloader {
+                    display: none !important;
+                }
+            </style>
+        </noscript>
+
+        <meta name="generator" content="weston  1.0" />
+
+        <style>
+
+
+
+
+                                    body { color: #8e8e8e; }
+
+                                    .entry-content a, .entry-content a:visited { color: #edb744; }
+
+                                    .entry-content a:hover { color: #2b89d1; }
+                                        .logo .site-title img { max-width: 225px; margin-bottom:20px;}
+
+                                        #site-header.light .logo .site-title img { max-width: 225px; }
+
+
+
+                                        @media only screen and (max-width: 780px){
+                                #site-header .logo .site-title img { max-width: 200px !important; }
+                            }
+
+
+
+                                        header.entry-header.main * { color: #191919 !important; }
+
+
+
+                                        .inline-header #site-header .nav-holder { height: 90px; }
+                            .inline-header #site-header .logo { height: 90px; }
+                            .inline-header #site-header .nav-holder,
+                            .inline-header #site-header .main-nav ul > li,
+                            .inline-header #site-header .main-nav ul > li > a,
+                            #site-header .main-nav #menu-main-menu > li > span,
+                            #site-header .secondary-nav a,
+                            #site-header .secondary-nav span  { line-height: 90px; height: 90px;}
+
+                                        #site-header.sticky .inside .nav-holder { height: 60px !important; }
+                            #site-header.sticky .logo { height: 60px !important; }
+                            #site-header.sticky .nav-holder,
+                            #site-header.sticky .main-nav ul > li,
+                            #site-header.sticky .main-nav ul > li > a,
+                            #site-header.sticky .main-nav ul > li > span,
+                            #site-header.sticky .secondary-nav a,
+                            #site-header.sticky .secondary-nav span  { line-height: 60px; height: 60px;}
+
+
+
+                    @media only screen and (max-width: 768px){
+                        .logo { display: none; }
+                        .logo.mobile { display: table; }
+                        .top-header.stacked-header #main-container #site-header .logo {
+                            height: 60px;
+                        }
+                        .top-header.stacked-header #main-container #site-header .logo.mobile {
+                            height: 60;
+                        }
+                        .top-header #main-container #site-header .logo.mobile {
+                            height: 60px;
+                        }
+                        body.top-header.stacked-header #main-container #site-header .nav-holder .secondary-nav span,
+                        body.top-header.stacked-header #main-container #site-header .nav-holder .secondary-nav a,
+                        body.top-header #main-container #site-header .nav-holder .secondary-nav span,
+                        body.top-header #main-container #site-header .nav-holder .secondary-nav a {
+                            height: 60px; line-height: 60px;
+                        }
+
+                        .top-header.stacked-header #main-container .nav-holder{
+                            height: 60px;
+                        }
+                        .top-header #main-container .nav-holder{
+                            height: 60px;
+                        }
+                    }
+
+                    /*Main Nav*/
+            #site-header .main-nav ul li a {
+            transition: all 0s ease!important;
+            }
+            #site-header .main-nav ul li {
+            transition: all 0.4s ease;
+            }
+            #site-header .main-nav {
+            width:100%;
+            }
+            #menu-main-menu {
+            float:right;
+                margin-right: -0.8em;
+            }
+            #site-header .main-nav #menu-main-menu li.depth-0:after {
+            position:absolute;
+            content:'';
+            display:block;
+            left:0px;
+            width:100%;
+            top:0%!important;
+            opacity:0;
+            height:100%;
+            background:#ffc43c;
+            z-index:-1;
+            transition: all 0.8s ease;
+            }
+            #site-header .main-nav ul li:hover:after {
+            top:0%!important;
+            opacity:1!important;
+            }
+            #site-header .main-nav #menu-main-menu li.depth-0:hover {
+            color:#fff;
+            }
+            #menu-main-menu .sub-menu {
+            background-color:#ffc43c;
+            color:#fff;
+            }
+            #menu-main-menu .sub-menu a {
+            color:#fff!important;
+            }
+            /*Home - News Section*/
+            .inside  h3 {
+            display:none;
+            }
+
+            .meta  {
+            color:#1b75bc !important;
+            text-transform: uppercase;
+            font-size: 25px !important;
+            }
+
+            .post.small h3 {
+                display: block !important;
+            }
+
+            /*Contact page*/
+            .contact-form input::placeholder, .contact-form textarea::placeholder {
+            color:#fff;
+            }
+            .contact-form input, .contact-form textarea{
+            border:solid 1px #f7f7f7;
+            border-radius:0px;
+            padding-left:2em;
+            color:#fff;
+            margin-bottom:0.2em!important;
+            }
+            .contact-form .wpcf7 {
+            max-width:400px;
+            margin:0 auto;
+            }
+            .contact-form p {
+            padding:0px;
+            }
+            .contact-form .wpcf7-submit {
+            border-radius:20px;
+            border:none;
+            background-color:#fff;
+            color:#000;
+            margin-top:3em!important;
+            text-transform:capitalize;
+            font-size:1.2em;
+            font-weight:400;
+            margin-bottom:2em!important;
+            padding:0.4em 3em!important;
+            }
+            /*newsletter side slider*/
+            .newsletter-popup {
+            position:relative;
+            z-index:2;
+            float:right;
+            right:-450px;
+            margin:0 auto;
+            width:450px;
+            background:#edcc7d;
+            padding:2em;
+            transition: all 0.6s ease;
+            }
+            .newsletter-popup.active {
+            opacity:1;
+            right:0px;
+            pointer-events:all;
+            }
+            .bgfade.active {
+            top:0px;
+            left:0px;
+            right:0px;
+            pointer-events:all;
+            bottom:0px;
+            z-index:1;
+            opacity:0.8;
+            }
+            .bgfade {
+            transition: all 0.6s ease;
+            opacity:0;
+             background: #100c53;
+            }
+            .newsletter-overlay {
+            position:fixed!important;
+            right:0px!important;
+            top:0px;
+            width:100vw!important;
+            left:0px!important;
+            height:100%;
+            display:flex;
+            align-items:center;
+            z-index:99999;
+            pointer-events:none;
+            }
+            .newsletter-overlay .wpb_wrapper {
+            margin:0 auto;
+            }
+            .newsletter-overlay .news-toggle.active {
+            right:400px;
+            }
+            .newsletter-overlay .news-toggle {
+            position:fixed;
+            z-index:9;
+            transition: all .6s ease;
+            pointer-events:all;
+            background:#edcc7d;
+                right: -50px;
+            top:48%;
+            cursor:pointer;
+            transform:rotateZ(-90deg);
+            text-transform:capitalize;
+            font-size:1.2em;
+            padding:0.4em 1em;
+            color:#000;
+            }
+             .news-toggle:hover {
+            color:#fff;
+            }
+            .newsletter-popup img {
+            filter:brightness(0) invert(1);
+            }
+            .newsletter-popup h4 {
+            text-transform:uppercase;
+            margin-top:1em;
+            margin-bottom:1em;
+            font-size:1em;
+            font-weight:500!important;
+            }
+            .newsletter-popup input {
+            border:none;
+            background-color:#ecd9af;
+            margin-bottom:2em!important;
+            }
+            .newsletter-popup input[type="submit"] {
+            margin-top:2em;!important;
+            background-color:#fff;
+            border-radius:25px;
+            color:#000;
+            text-transform:capitalize;
+            font-weight:400;
+            padding:0.4em 2em!important;
+            }
+            .bgfade {
+            background:#100c53;
+            opacity:0;
+            position:fixed;
+            }
+            .newsletter-popup form {
+            max-width:280px;
+            margin:0 auto;
+            }
+
+            /*Map Styling*/
+            /*Maps styling*/
+            .wpgmza_modern_infowindow.wpgmza-shadow {
+            border-right:solid 1px rgba(255,255,255,0.3)!important;
+            left:0px!important;
+            top:0px!important;
+            height:100%!important;
+            bottom:0px!important;
+            margin:0px!important;
+            box-shadow:none!important;
+            background-color:#7491a3;
+            z-index:9999!important;
+            }
+            .wpgmza_modern_infowindow_inner {
+            width:60%;
+            margin:0 auto!important;
+            padding-top:20%;
+            position:relative;
+            }
+            .wpgmza_modern_infowindow_close {
+                cursor: pointer;
+                width: 20px;
+                height: 20px;
+                text-align: center;
+                display: block;
+                float: right;
+                z-index: 9;
+                position: absolute;
+                color: #fff;
+                font-size: 1.6em;
+                font-family: 'Open Sans';
+                top: 0px;
+                right: 0px;
+            }
+            .wpgmza_iw_title {
+            color:#fff!important;
+            opacity:1!important;
+                color: #FFFFFF;
+            padding:0!important;
+                background-color:transparent!important;
+            text-transform:uppercase;
+            font-weight:600;
+            height:auto;
+            margin-bottom:20px;
+            }
+            .wpgmza_iw_description {
+                color: #FFFFFF;
+                font-size: 1.4em;
+                max-height: none!important;
+            line-height:1.2em;
+            }
+            .wpgmza_button.wpgmza_more_info_button {
+            background-color:transparent!important;
+            color:#fff!important;
+            border:none!important;
+                width: auto!important;
+            font-weight:500;
+                float: none!important;
+                margin: 0!important;
+            padding:0!important;
+            text-decoration:underline!important;
+            font-family:'Open Sans'!important;
+            }
+            a[href^="http://maps.google.com/maps"]{display:none !important}
+            a[href^="https://maps.google.com/maps"]{display:none !important}
+
+            .gmnoprint a, .gmnoprint span, .gm-style-cc {
+                display:none;
+            }
+            .gmnoprint div {
+                background:none !important;
+            }
+            /*Corporate Menu*/
+            #menu-corporate-menu li, #menu-project-north-america-menu li, #menu-project-south-america-menu li {
+            position:relative;
+            border-bottom:solid 1px #100c53;
+            border-top:solid 1px #100c53;
+            margin-top:-1px;
+            }
+            #menu-corporate-menu li a:after, #menu-project-north-america-menu li a:after, #menu-project-south-america-menu li a:after {
+            content:'';
+            position:absolute;
+            right:0px;
+            top:15px;
+            height:30px;
+            width:30px;
+            background-size:contain;
+            opacity:0;
+            transition: 0.2s ease-in-out;
+            }
+            #menu-corporate-menu li:hover a:after, #menu-project-north-america-menu li:hover a:after, #menu-project-south-america-menu li:hover a:after {
+            opacity:1;
+            }
+            #menu-corporate-menu li a, #menu-project-north-america-menu li a, #menu-project-south-america-menu li a {
+            font-size: 18px;
+            text-transform: uppercase;
+            line-height: 3em;
+            color:#100c53;
+            font-family:'Open Sans';
+            font-weight:700;
+            }
+            #menu-corporate-menu .current-menu-item a, #menu-project-north-america-menu .current-menu-item a, #menu-project-south-america-menu .current-menu-item a {
+            color:#ffc43c;
+            }
+            #menu-corporate-menu .current-menu-item a:after, #menu-project-north-america-menu .current-menu-item a:after, #menu-project-south-america-menu .current-menu-item a:after {
+            opacity:1;
+            }
+
+            /*Interactive map*/
+            .wpgmza_infowindow_address {
+            display:none;
+            }
+            .gm-style div {
+                margin-top: 0 !important;
+                border-radius: 0px!important;
+            border:none!important;
+            }
+            .gm-style-iw {
+                position: absolute;
+                left: 15px;
+                width: 101px;
+                padding-top: 0px;
+                top: 3px!important;
+            }
+            #wpgmza_map_1 &gt; div &gt; div &gt; div:nth-child(1) &gt; div:nth-child(4) &gt; div:nth-child(4) &gt; div &gt; div:nth-child(1) &gt; div:nth-child(2) {
+            background-color:#fff!important;
+            }
+            /*Footer*/
+            #footer .secondary{
+            background-color: #000 !important;
+            border-top: 1px solid #FFF;
+            margin-top:-20px;
+            }
+
+            #footer .secondary p {
+            font-size: 0.7em !important;
+            color:#FFF;
+            }
+
+            #footer .secondary a {
+            color:#FFF;
+            }
+
+            #footer {
+            background-color: #000 !important;
+            }
+
+            /*Stock Plugin Styling*/
+
+            .stock-widgets {
+            line-height:1.6em;
+            }
+            .stock-widgets p {
+            display:none;
+            }
+            .stock-widgets .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner.vc_icon_element-size-md {
+            height:21px;
+            font-size:0.6em;
+            margin:0;
+            padding:0px 1em;
+                top: 3px;
+            }
+            .stock-widgets .vc_icon_element:hover .vc_icon_element-icon:before{
+            color:#fff!important;
+            }
+            .vc_icon_element:hover:after {
+            opacity:1!important;
+            }
+            .stock-widgets .vc_icon_element-icon {
+            width:100%;
+            }
+            .stock-widgets .vc_icon_element:after{
+            background-color:#ffc43c;
+            content:'';
+            position:absolute;
+            top:-4em;
+            transition: all 0.8s ease;
+            bottom:-4em;
+            left:0px;
+            right:0px;
+            opacity:0;
+            z-index:-1;
+            }
+            .stock-widgets .mail:after {
+            opacity:1;
+            }
+            .stock-widgets .mail {
+            font-size:0.8em;
+            color:#fff;
+            }
+            .stock-widgets .mail .vc_icon_element-icon:before {
+            color:#fff;
+            }
+            .stock-widgets .vc_icon_element {
+            display:inline-block;
+            position:relative;
+            margin-bottom:0px;
+            float:left;
+            }
+            .pre_header_stock_container {
+                padding: 0 30px;
+                padding-top: .8em;
+                padding-bottom: .8em;
+                overflow: hidden;
+                font-size: 0.9em;
+            }
+            .stock_container, .gold_container {
+            color:#ffc43c;
+            }
+            .stock_container span, .gold_container span {
+            color:#fff;
+            }
+
+            /*Custom VC grid styling*/
+            /*Investors row hover*/
+            .investors-row .vc_column-inner {
+            background-size:cover!important;
+            margin-right:-1px!important;
+            margin-left:-1px!important;
+            }
+            .investors-row .vc_column-inner:after {
+            content:'';
+            position:absolute!important;
+            left:-1px;
+            display:block;
+            top:0px;
+            width:101%;
+            height:100%;
+            bottom:0px;
+            z-index:-1;
+            opacity:1;
+            transition: all 0.6s ease;
+            }
+            .investors-row .vc_column-inner:hover h5 {
+            color:#ffffff!important;
+            }
+            .investors-row .vc_column-inner:hover .vc_btn3  {
+            background-color:#fff!important;
+            border-color:#fff;
+            }
+            .investors-row .vc_column-inner:hover:after {
+            opacity:0.4;
+            }
+            .column1 .vc_column-inner:after {
+            background-color:#f2f2f2;
+            }
+            .column2 .vc_column-inner:after {
+            background-color:#f7f7f7;
+            }
+            .column3 .vc_column-inner:after {
+            background-color:#ededed;
+            }
+            /*Projects Hovers*/
+            .projects-rows .vc_icon_element {
+            position:relative;
+            }
+            .projects-rows .vc_icon_element:after {
+            content:'';
+            position:absolute;
+            left:0px;
+            top:0px;
+            height:100%;
+            width:100%;
+            background-color:rgba(0, 0, 0, 0.6);
+            z-index:1;
+            opacity:0;
+            transition: all 0.6s ease;
+            }
+            .projects-rows:hover &gt; .vc_icon_element:after {
+            opacity:0.3!important;
+            }
+            .projects-rows .vc_icon_element-inner {
+            z-index: 2;
+                /* height: 100%; */
+                /* width: 100%; */
+                position: absolute!important;
+                height: 100%!important;
+                width: 100%!important;
+                top: 0px;
+                left: 0px;
+            }
+            .grid-link, .grid-link a {
+                position: absolute;
+                top: 0;
+                left: 0;
+            opacity:0;
+                width: 100%;
+                height: 100%;
+            }
+            .news-rows .vc_row:after {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: #100c53;
+                display: block;
+                opacity: 1;
+            transition: all 0.6s ease;
+            }
+            .news-rows .vc_row:hover:after {
+            opacity:0.6;
+            }
+
+            /*Projects links*/
+
+            .projects-link {
+                position: absolute;
+                top: 0px;
+                height: 100%;
+                width: 100%;
+                left: 0px;
+            z-index:1;
+            }
+            .projects-link a{
+            position: absolute;
+                height: 100%;
+                width: 100%;
+                opacity: 0;
+            }
+
+            /*News section responsive centering*/
+            .news-rows .wpb_wrapper{
+            height:100%;
+            flex:1;
+            display:flex;
+            flex-direction:column;
+            }
+            .news-rows .vc_row {
+            height:50%;
+            flex:1;
+            }
+
+            /*Team Content*/
+            .team-row span.button {
+            background:transparent;
+            border:none;
+            padding-left:0px!important;
+            color:#edcb7e;
+            font-weight:600;
+            text-transform:lowercase;
+            opacity:1!important;
+            transition: all 0.6s ease;
+            }
+            .team-row span.button:hover {
+            color: #100c53;
+            }
+            .team-row span.button.toggle-less span .symbol {
+            line-height:26px;
+            }
+            .team-row span.symbol {
+                background: transparent;
+                color: #edcb7e;
+                font-weight: 600;
+                width: 30px;
+            position:relative;
+            top:2px;
+            height:30px;
+            line-height:28px;
+            font-size:1.6em;
+            display:inline-block;
+                text-transform: lowercase;
+                border-radius: 100%;
+            transition: all 0.6s ease;
+            }
+            .team-row span:hover .symbol{
+            background:#100c53;
+            opacity:1;
+            color:#fff;
+            }
+            .team-row .wpb_text_column .wpb_wrapper {
+            max-height:125px;
+            overflow:hidden;
+            position:relative;
+            transition: 1.4s ease-in-out;
+            }
+            .team-row .wpb_text_column.readmore .wpb_wrapper {
+            max-height:1200px;
+            transition: 1.4s ease-in-out;
+            }
+            .team-row .wpb_text_column .wpb_wrapper:after {
+            content:'';
+            position:absolute;
+            bottom:0px;
+            left:0px;
+            height:80px;
+            transition: 0.6s;
+            width:100%;
+            background-image:linear-gradient(rgba(255,255,255,0) 40%, #f1f1f1  100%);
+            }
+            .team-row .wpb_text_column.readmore .wpb_wrapper:after{
+            opacity:0;
+            }
+            .readmore .toggle-more {
+                display: none;
+            }
+            .readmore .button {
+            border:none;
+            }
+            .team-row .wpb_text_column.readmore .toggle-less {
+            display:inline-block;
+            }
+            .team-row .wpb_text_column .toggle-less {
+            display:none;
+            }
+
+            a.button, a.button:active, a.button:visited, #footer a.button, #searchsubmit, input[type="submit"], a.post-edit-link, a.tt-button {
+            margin:auto;
+            display:block;
+            }
+
+            /*Posts*/
+            .post-nav {
+            display:none;
+            }
+
+            #primary header.main {
+            background-color: #7491a3 !important;
+            }
+
+            .comments-wrap {
+            display:none;
+            }
+
+            /*Media Queries*/
+            @media screen and (max-width:768px) {
+            .stock-widgets-inner .vc_icon_element, .pre_header_stock_container .stock_container {
+            display:none;
+            }
+            .newsletter-side {
+            position: relative;
+                position: relative;
+                margin-left: 0px;
+                top: 0px;
+                left: -37%;
+                background: #edcc7d;
+                width: 174%;
+                margin-bottom: -155px;
+            }
+            .news-toggle {
+            display:none;
+            }
+            .stock-widgets-inner .vc_icon_element.mail {
+            display:inline-block;
+            }
+            .vc_custom_1506387671201 .wpb_column {
+                width: 260px;
+                margin: 0 auto;
+            }
+            .vc_custom_1506119961734 {
+            margin-left:10px!important;
+            }
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+        <link href="//fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+        <style type="text/css">
+            .site-main h1 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+
+        <style type="text/css">
+            .site-main h2 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+
+        <style type="text/css">
+            .site-main h3 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+
+        <style type="text/css">
+            .site-main h4 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+
+        <style type="text/css">
+            .site-main h5 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <!-- ThemeTrust Google Font Picker -->
+
+        <style type="text/css">
+            .site-main h6 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+        </style>
+
+        <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+
+        <style type="text/css" id="wp-custom-css">
+            .content-area.blog .entry-header {
+                display: none !important;
+            }
+            .single-career .content-area.blog .entry-header {
+                display: table !important;
+                text-align: center;
+            }
+            .content-area.blog .body-wrap {
+                max-width: 860px;
+            }
+            .stock_quote_data {
+                margin-right: 1em;
+            }
+            .stock_quote_alt_data {
+                margin-right: 1em;
+            }
+            /***Careers Styling***/
+            /*Careers Main*/
+            .page-id-2054 .title,
+            .single-career .title {
+                padding: 8em 0;
+            }
+            .page-id-2054 .title img,
+            .single-career .title img {
+                max-width: 60px;
+                margin-bottom: 1em;
+            }
+            .page-id-2054 h1 {
+                font-weight: 600 !important;
+            }
+            .page-id-2054 .title h1,
+            .single-career .title h1 {
+                text-transform: uppercase;
+                font-size: 3em !important;
+                font-family: "Montserrat";
+                font-weight: 700 !important;
+                letter-spacing: 0.05em;
+                color: #fff;
+            }
+            .page-id-2054 .pagination {
+                display: none;
+            }
+            .page-id-2054 h1,
+            .single-career h1 {
+                color: #93a5b2;
+                font-weight: 500;
+            }
+            .searchandfilter {
+                border-bottom: solid 1px #000;
+            }
+            .searchandfilter ul {
+                margin-left: 0;
+            }
+            li.sf-field-search {
+                display: inline-block !important;
+                width: 410px;
+            }
+            li.sf-field-search h4 {
+                display: inline-block;
+                font-family: "Open Sans" !important;
+                font-weight: 600;
+                margin-right: 1em;
+            }
+            .sf-field-submit {
+                display: inline-block !important;
+            }
+            .sf-input-text {
+                border: none !important;
+                width: 300px !important;
+                margin-bottom: 0 !important;
+                background: transparent !important;
+            }
+            .sf-field-search input {
+                margin-bottom: 0.6em !important;
+            }
+            .sf-input-text::placeholder {
+                color: #cccccc !important;
+            }
+            .sf-field-submit input {
+                background-color: #fff !important;
+                border: solid 1px #000 !important;
+                color: #000 !important;
+                text-transform: lowercase;
+                padding: 0.6em 2.4em !important;
+            }
+
+            /*Search results*/
+            .search-filter-results {
+                margin-bottom: 4em;
+            }
+            .search-filter-results h2 {
+                margin-bottom: 0;
+            }
+            .search-filter-results h2 a {
+                color: #000 !important;
+                font-weight: 500;
+            }
+            .search-filter-results .meta {
+                color: #000 !important;
+                text-transform: none;
+                font-size: 1em !important;
+                margin-bottom: 0.6em;
+            }
+            .search-filter-results p {
+                color: #000;
+            }
+            .search-filter-results .read-more {
+                background-color: #fff !important;
+                border: solid 1px #000 !important;
+                color: #000 !important;
+                text-transform: lowercase;
+                padding: 0.1em 2.4em !important;
+                display: inline-block;
+                border-radius: 20px;
+                font-size: 0.6em;
+                font-family: "Open Sans";
+                font-weight: 600;
+                margin-bottom: 3em;
+                transition: all 0.4s ease;
+            }
+            .search-filter-results .read-more:hover {
+                opacity: 0.4;
+            }
+            .search-filter-results .pagination {
+                display: none !important;
+            }
+            .search-filter-results p .read-more {
+                display: none;
+            }
+            .search-filter-results hr {
+                background-color: #000;
+            }
+            .search-filter-results > div.result:last-child hr {
+                display: none;
+            }
+            .result {
+                margin-bottom: 2em;
+            }
+
+            /*Single Careers Pages*/
+            .single-career article h1 {
+                color: #000;
+                font-size: 2em;
+                margin-bottom: 0em;
+                margin-top: 0.6em;
+            }
+            .single-career article .meta span:before {
+                display: none;
+            }
+            .single-career article .meta {
+                margin-bottom: 2em !important;
+                font-size: 1em !important;
+            }
+            .single-career article .meta span {
+                color: #000 !important;
+                text-transform: none !important;
+            }
+            .single-career .back {
+                margin-top: -3em;
+            }
+            .single-career .back a {
+                color: #000;
+            }
+            .single-career .back a:before {
+                content: "\02C2";
+                margin-right: 0.2em;
+            }
+            .single-career h3 {
+                font-size: 1.2em !important;
+                font-weight: 500;
+            }
+            .single-career form h4 {
+                font-size: 1em;
+                font-weight: 500;
+                text-transform: uppercase;
+            }
+            .single-career p {
+                color: #000;
+            }
+            .single-career .text {
+                margin-bottom: 1em;
+            }
+            .single-career .text h3 {
+                margin-bottom: 1em;
+            }
+            .single-career input,
+            .single-career textarea {
+                background: none;
+                border: none;
+                border-bottom: solid 1px #000;
+                padding-left: 0.4em;
+                border-radius: 0px;
+            }
+            .single-career textarea {
+                border: solid 1px #000;
+            }
+            .single-career .row {
+                margin-bottom: 1em;
+            }
+            .single-career .your-message {
+                margin-top: 3em;
+                display: block;
+                margin-bottom: 2em;
+            }
+            .single-career .first-name {
+                display: inline-block;
+                max-width: 47%;
+                margin-right: 4%;
+                width: 100%;
+            }
+            .single-career input {
+                width: 100%;
+                max-width: 100%;
+            }
+            .single-career .last-name {
+                display: inline-block;
+                max-width: 48%;
+                width: 100%;
+            }
+            .single-career form .row br {
+                display: none;
+            }
+            .single-career .row.files {
+                margin-top: -1em;
+            }
+            .single-career .row.files input {
+                padding-left: 0;
+                border: none;
+                margin-bottom: 2em;
+                background: none !important;
+                border: none;
+            }
+            .single-career .row.files span {
+                color: #000;
+                font-size: 0.8em;
+                font-weight: 400;
+            }
+            .single-career .wpcf7-submit {
+                background: #fff !important;
+                border: solid 1px #000 !important;
+                color: #000 !important;
+                margin-left: 0;
+                padding: 0.6em 2em !important;
+                margin-top: 5em !important;
+                width: auto;
+            }
+            .single-career .content-area.blog .body-wrap {
+                max-width: 1200px;
+            }
+
+            /*Footer*/
+            #footer p {
+                color: #8e8e8e !important;
+            }
+            #footer a {
+                color: #ffc43c;
+            }
+            #footer h4 {
+                font-family: "Montserrat";
+                font-weight: 200;
+            }
+            #footer .fa {
+                color: unset;
+                font-size: 1.3em;
+            }
+
+            @media screen and (max-width: 768px) {
+                .sf-field-submit {
+                    margin-bottom: 2em !important;
+                }
+                .sf-field-search {
+                    display: block !important;
+                }
+                .searchandfilter label {
+                    display: block;
+                }
+                .searchandfilter label input {
+                    padding-left: 0;
+                }
+                .single-career .first-name {
+                    max-width: 100%;
+                }
+                .single-career .last-name {
+                    max-width: 100%;
+                }
+                .page-id-2054 .title h1,
+                .single-career .title h1 {
+                    font-size: 2em !important;
+                }
+            }
+            .pre_header_stock_container {
+                position: relative;
+                width: 100%;
+                z-index: 10;
+            }
+        </style>
+        <style type="text/css" data-type="vc_custom-css">
+            .white {
+                color: #fff;
+                font-size: 22px;
+                font-weight: bold;
+            }
+        </style>
+        <style type="text/css" data-type="vc_shortcodes-custom-css">
+            .vc_custom_1506739312949 {
+                background-image: linear-gradient(rgba(16,12,83,0.5), rgba(16,12,83, 0.5)), url(/template_files/1364/images/MTT-argsunset.jpg) !important;
+                background-position: center !important;
+                background-repeat: no-repeat !important;
+                background-size: cover !important;
+            }
+            .vc_custom_1505861545373 {
+                padding-top: 50px !important;
+                padding-bottom: 50px !important;
+                background-color: #f1f2f2 !important;
+            }
+            .vc_custom_1506405403237 {
+                background-color: #1b75bc !important;
+            }
+            .vc_custom_1506557394438 {
+                padding-top: 10% !important;
+                padding-bottom: 10% !important;
+            }
+            .vc_custom_1506405395440 {
+                padding-left: 10% !important;
+            }
+            .vc_custom_1506368435707 {
+                padding-top: 10px !important;
+                padding-bottom: 10px !important;
+            }
+            .vc_custom_1506367672182 {
+                margin-bottom: 0px !important;
+            }
+            .vc_custom_1506367690685 {
+                margin-bottom: 0px !important;
+            }
+            .vc_custom_1516761638996 {
+                margin-bottom: 0px !important;
+            }
+            .vc_custom_1525708877822 {
+                margin-bottom: 0px !important;
+            }
+            .vc_custom_1506367866636 {
+                margin-bottom: 0px !important;
+            }
+            .vc_custom_1506103650770 {
+                padding-top: 0px !important;
+                padding-bottom: 0px !important;
+            }
+            .vc_custom_1506103668943 {
+                padding-top: 0px !important;
+                padding-bottom: 0px !important;
+            }
+            .nav-holder {
+                margin-top:40px;
+            }
+            #menu-corporate-menu li a:after, #menu-project-north-america-menu li a:after, #menu-project-south-america-menu li a:after {
+                background-image: none !important;
+            }
+            #menu-corporate-menu li a, #menu-project-north-america-menu li a, #menu-project-south-america-menu li a {
+                line-height:2 !important;
+            }
+            #menu-corporate-menu li, #menu-project-north-america-menu li, #menu-project-south-america-menu li {
+                padding-top: 5px !important;
+                padding-bottom: 5px !important;
+            }
+            footer a:hover {
+                color:#ffc43c !important;
+            }
+            .wpb_animate_when_almost_visible {
+                opacity: initial !important;
+            }
+        </style>
+        <noscript>
+            <style type="text/css">
+                .wpb_animate_when_almost_visible {
+                    opacity: 1;
+                }
+            </style>
+        </noscript>
+        <style>
+            @media only screen and (max-width: 767px) {
+                .vc_custom_1506387671201 .wpb_column {
+                    width:100% !important;
+                }
+                footer .vc_column-inner {
+                    padding-bottom:0 !important;
+                    padding-top:0 !important;
+                }
+            }
+            .stock_container { opacity:1 !important; }
+            .pr-body p {
+                padding-bottom: 10px !important;
+            }
+            .pr-body li p {
+                font-size:14.4px !important;
+                font-weight:400 !important;
+                padding-bottom:0 !important;
+            }
+            .entry-content li {
+                font-size:14.4px !important;
+            }
+            .entry-content li p {
+                font-size:14.4px !important;
+                padding-bottom:10px !important;
+            }
+            .entry-content ul {
+                margin-bottom:15px !important;
+            }
+            .entry-content td, .entry-content th {
+                font-size:16px !important;
+            }
+        </style>
+    </head>
+
+    <body data-rsssl="1" class="page-template-default page page-id-405 chrome osx using-vc inline-header top-header wpb-js-composer js-comp-ver-5.6 vc_responsive" data-mobile-breakpoint="768">
+        <div id="wptime-plugin-preloader"></div>
+
+        <div id="site-wrap" style="padding-top:20px !important">
+            <div id="main-container">
+                <header id="site-header" class="dark">
+                    <div class="inside logo-and-nav clearfix">
+                        <div id="logo" class="logo">
+                            <h2 class="site-title">
+                                <a href="https://www.magnaterraminerals.com/MTT"><img src="/template_files/1364/images/logo.jpg" alt="Magna Terra Minerals" /></a>
+                            </h2>
+
+                            <h2 class="site-title sticky"><a href="https://www.magnaterraminerals.com/MTT">Magna Terra Minerals</a></h2>
+                        </div>
+
+                        <div id="logo-mobile" class="logo mobile">
+                            <h2 class="site-title">
+                                <a href="https://www.magnaterraminerals.com/MTT"><img src="/template_files/1364/images/logo.jpg" alt="Magna Terra Minerals" /></a>
+                            </h2>
+                        </div>
+
+                        <div class="nav-holder">
+                            <div class="main-nav clearfix">
+                                <ul id="menu-main-menu" class="main-menu sf-menu">
+                                    <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-93 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT" class="link link-depth-0"><span>Home</span></a>
+                                    </li>
+                                    <li
+                                        id="menu-item-413"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-413 depth-0"
+                                    >
+                                        <a href="https://www.magnaterraminerals.com/MTT/corporate/3890" class="link link-depth-0"><span>Corporate</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-407 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/about/3891" class="link link-depth-1"><span>About</span></a>
+                                            </li>
+                                            <li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/management_directors_advisors/3892" class="link link-depth-1"><span>Management, Directors &amp; Advisors</span></a>
+                                            </li>
+                                            <li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/community_relations_and_environment/3893" class="link link-depth-1"><span>Community Relations & Environment</span></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-242 depth-0">
+                                        <a href="#" class="link link-depth-0"><span>Projects</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-798 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/atlantic_canada_overview/3992" class="link link-depth-1"><span>Atlantic Canada Overview</span></a>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-4072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4072 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/cape_spencer_project/3991" class="link link-depth-1"><span>Cape Spencer</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/great_northern_and_viking_projects/3990" class="link link-depth-1"><span>Great Northern</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/hawkins_love/4256" class="link link-depth-1"><span>The Hawkins Love Project</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-798 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/argentina_overview/3895" class="link link-depth-1"><span>Argentina Overview</span></a>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-4072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4072 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/luna_roja/3896" class="link link-depth-1"><span>Luna Roja</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/piedra_negra/3897" class="link link-depth-1"><span>Piedra Negra</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4074" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4074 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/cerro_covadonga/3898" class="link link-depth-1"><span>Cerro Covadonga</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4075" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4075 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/el_meridiano/3899" class="link link-depth-1"><span>El Meridiano</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4076 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/gertrudis/3900" class="link link-depth-1"><span>Gertrudis</span></a>
+                                                    </li>
+                                                    <!--
+                                                    <li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4077 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/katrina/3901" class="link link-depth-1"><span>Katrina</span></a>
+                                                    </li>
+                                                	-->
+                                                    <li id="menu-item-4078" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4078 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/la_rosita/3902" class="link link-depth-1"><span>La Rosita</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4079" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4079 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/signos/3903" class="link link-depth-1"><span>Signos</span></a>
+                                                    </li>
+                                                    <li id="menu-item-40710" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-40710 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/the_boleadora_group/3904" class="link link-depth-1"><span>The Boleadora Group</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-252 depth-0">
+                                        <a href="#" class="link link-depth-0"><span>Investors</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/stock_quote" class="link link-depth-1"><span>Stock Information</span></a>
+                                            </li>
+                                            <li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/capital_structure/4254" class="link link-depth-1"><span>Capital Structure</span></a>
+                                            </li>
+                                            <!--
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/corporate_documents?type=100506&template=most_recent_redirect" class="link link-depth-1"><span>Corporate Presentation</span></a>
+                                            </li>
+                                            -->
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/corporate_presentation/4022" class="link link-depth-1"><span>Corporate Presentation</span></a>
+                                            </li>
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/media/4769" class="link link-depth-1"><span>Media</span></a>
+                                            </li>
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/regulatory_filings/3906" class="link link-depth-1"><span>Regulatory Filings</span></a>
+                                            </li>
+                                            <li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1990 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/fact_sheet/3907" class="link link-depth-1"><span>Fact Sheet</span></a>
+                                            </li>
+                                            <li id="menu-item-19901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19901 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/disclaimer/3908" class="link link-depth-1"><span>Disclaimer</span></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/press_releases" class="link link-depth-0"><span>News</span></a>
+                                    </li>
+                                    <li id="menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2190 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/careers/3909" class="link link-depth-0"><span>Careers</span></a>
+                                    </li>
+                                    <li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/contact_us" class="link link-depth-0"><span>Contact</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="secondary-nav clearfix"></div>
+
+                            <div class="hamburger hamburger--spin right">
+                                <span class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <!-- #site-header -->
+                <!-- Slide Panel -->
+                <div id="slide-panel-holder">
+                    <div id="slide-panel">
+                        <div class="inner has-mobile-menu">
+                            <nav id="slide-mobile-menu" class="menu-main-menu-container">
+                                <ul id="menu-main-menu-1" class="collapse sidebar">
+                                    <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-93 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT" class="link link-depth-0"><span>Home</span></a>
+                                    </li>
+                                    <li
+                                        id="menu-item-413"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-413 depth-0"
+                                    >
+                                        <a href="https://www.magnaterraminerals.com/MTT/corporate/3890" class="link link-depth-0"><span>Corporate</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-407 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/about/3891" class="link link-depth-1"><span>About</span></a>
+                                            </li>
+                                            <li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/management_directors_advisors/3892" class="link link-depth-1"><span>Management, Directors &amp; Advisors</span></a>
+                                            </li>
+                                            <li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/community_relations_and_environment/3893" class="link link-depth-1"><span>Community Relations &amp; Environment</span></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-242 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/projects/3894" class="link link-depth-0"><span>Projects</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-798 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/atlantic_canada_overview/3992" class="link link-depth-1"><span>Atlantic Canada Overview</span></a>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-4072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4072 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/cape_spencer_project/3991" class="link link-depth-1"><span>Cape Spencer</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/great_northern_and_viking_projects/3990" class="link link-depth-1"><span>Great Northern</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/hawkins_love/4256" class="link link-depth-1"><span>The Hawkins Love Project</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-798 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/argentina_overview/3895" class="link link-depth-1"><span>Argentina Overview</span></a>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-4072" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4072 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/luna_roja/3896" class="link link-depth-1"><span>Luna Roja</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4073" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4073 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/piedra_negra/3897" class="link link-depth-1"><span>Piedra Negra</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4074" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4074 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/cerro_covadonga/3898" class="link link-depth-1"><span>Cerro Covadonga</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4075" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4075 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/el_meridiano/3899" class="link link-depth-1"><span>El Meridiano</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4076" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4076 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/gertrudis/3900" class="link link-depth-1"><span>Gertrudis</span></a>
+                                                    </li>
+                                                    <!--
+                                                    <li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4077 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/katrina/3901" class="link link-depth-1"><span>Katrina</span></a>
+                                                    </li>
+                                                	-->
+                                                    <li id="menu-item-4078" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4078 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/la_rosita/3902" class="link link-depth-1"><span>La Rosita</span></a>
+                                                    </li>
+                                                    <li id="menu-item-4079" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-4079 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/signos/3903" class="link link-depth-1"><span>Signos</span></a>
+                                                    </li>
+                                                    <li id="menu-item-40710" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-405 current_page_item menu-item-40710 depth-1">
+                                                        <a href="https://www.magnaterraminerals.com/MTT/the_boleadora_group/3904" class="link link-depth-1"><span>The Boleadora Group</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-252 depth-0">
+                                        <a href="#" class="link link-depth-0"><span>Investors</span></a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/stock_quote" class="link link-depth-1"><span>Stock Information</span></a>
+                                            </li>
+                                            <li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/capital_structure/4254" class="link link-depth-1"><span>Capital Structure</span></a>
+                                            </li>
+                                            <!--
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/corporate_documents?type=100506&template=most_recent_redirect" class="link link-depth-1"><span>Corporate Presentation</span></a>
+                                            </li>
+                                            -->
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/corporate_presentation/4022" class="link link-depth-1"><span>Corporate Presentation</span></a>
+                                            </li>
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/media/4769" class="link link-depth-1"><span>Media</span></a>
+                                            </li>
+                                            <li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/regulatory_filings/3906" class="link link-depth-1"><span>Regulatory Filings</span></a>
+                                            </li>
+                                            <li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1990 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/fact_sheet/3907" class="link link-depth-1"><span>Fact Sheet</span></a>
+                                            </li>
+                                            <li id="menu-item-19901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19901 depth-1">
+                                                <a href="https://www.magnaterraminerals.com/MTT/disclaimer/3908" class="link link-depth-1"><span>Disclaimer</span></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/press_releases" class="link link-depth-0"><span>News</span></a>
+                                    </li>
+                                    <li id="menu-item-2190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2190 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/careers/3909" class="link link-depth-0"><span>Careers</span></a>
+                                    </li>
+                                    <li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91 depth-0">
+                                        <a href="https://www.magnaterraminerals.com/MTT/contact_us" class="link link-depth-0"><span>Contact</span></a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <!-- .inner -->
+                    </div>
+                    <!-- /slide-panel-->
+                </div>
+
+                <style>
+    .vc_custom_1506735082360 {
+        background-image: url(/template_files/1364/images/Argentinahillside.jpg) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+    .vc_col-has-fill>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_column_container>.vc_column-inner {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    @media only screen and (max-width: 650px) {
+        .vc_col-has-fill>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_column_container>.vc_column-inner {
+            padding-top: 80px;
+            padding-bottom: 80px;
+        }
+    }
+    .vc_custom_1505887085593 {
+        background-image: url(https://www.magnaterraminerals.com/MTT/corporate_documents?type=100507&template=most_recent_redirect) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+    .vc_custom_1505887117713 {
+        background-image: url(/template_files/1364/images/Site Map.png) !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+    .vc_custom_1506557481677 {
+        background: url(/template_files/1364/images/great-northern.jpeg) !important;
+        background-repeat: no-repeat !important;
+        background-size: contain !important;
+        height:100% !important;
+    }
+    @media only screen and (max-width: 767px) {
+        .home-items .vc_column-inner, .map-image {
+            padding-bottom:0 !important;
+            padding-top:40px !important;
+        }
+        .blog .type-post {
+            padding-left:0 !important;
+        }
+        .vc_custom_1506557481677 {
+            padding-top:400px !important;
+        }
+        .vc_custom_1506387671201 .wpb_column {
+            width:100% !important;
+        }
+        footer .vc_column-inner {
+            padding-bottom:0 !important;
+            padding-top:0 !important;
+        }
+    }
+</style>
+<div id="middle">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main" role="main">
+            <article id="post-8" class="post-8 page type-page status-publish hentry">
+                <div class="body-wrap">
+                    <div class="entry-content">
+                        <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1506735082360 vc_row-has-fill">
+                            <div style="" class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
+                                <div class="vc_column-inner vc_custom_1506064756142" style="padding-top:120px;padding-bottom:100px">
+                                    <div class="wpb_wrapper">
+                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                            <div class="wpb_column vc_column_container vc_col-sm-2">
+                                                <div class="vc_column-inner"><div class="wpb_wrapper"></div></div>
+                                            </div>
+                                            <div class="wpb_column vc_column_container vc_col-sm-8">
+                                                <div class="vc_column-inner">
+                                                    <div class="wpb_wrapper">
+                                                        <h2
+                                                            style="font-size: 55px; color: #ffffff; text-align: center; font-family: Lato; font-weight: 900; font-style: normal;"
+                                                            class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeIn fadeIn"
+                                                        >
+                                                            Atlantic Canada’s Next Gold Exploration Success Story
+                                                        </h2>
+                                                        <div class="vc_btn3-container wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_btn3-center">
+                                                            <a
+                                                                style="background-color: #ffc43c; color: #ffffff;"
+                                                                class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom"
+                                                                href="https://www.magnaterraminerals.com/MTT/atlantic_canada_overview/3992"
+                                                                title=""
+                                                            >
+                                                                Learn More
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="wpb_column vc_column_container vc_col-sm-2">
+                                                <div class="vc_column-inner"><div class="wpb_wrapper"></div></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_row-full-width vc_clearfix"></div>
+                        <style>
+                            .home-items .vc_col-sm-4  {
+                                display:initial !important;
+                                padding-right:10px !important;
+                                padding-left:10px !important;
+                            }
+                            .map-image {
+                                display:block !important;
+                                padding-top:65px !important;
+                            }
+                            @media only screen and (max-width: 767px) {
+                                .map-image {
+                                    padding-bottom:0 !important;
+                                    padding-top:25px !important;
+                                }
+                            }
+                        </style>
+                        <div
+                            id="dude-parallax"
+                            data-vc-full-width="true"
+                            data-vc-full-width-init="false"
+                            data-vc-stretch-content="true"
+                            data-vc-parallax="1.5"
+                            data-vc-parallax-image=""
+                            class="home-items vc_row wpb_row vc_row-fluid vc_custom_1506361630254 vc_row-has-fill vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"
+                        >
+                            <div style="" class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill" style="display:initial !important">
+                                <div class="vc_column-inner vc_custom_1506386864691" style="padding-top:60px;padding-bottom:60px">
+                                    <div class="wpb_wrapper">
+                                        <h3 style="color: #7491a3; text-align: left;" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1505881637664">About</h3>
+                                        <div class="wpb_text_column wpb_content_element" style="margin-bottom:0 !important">
+                                            <div class="wpb_wrapper">
+                                                <p style="font-size:15px">
+                                                    Magna Terra Minerals Inc. is a precious metals focused exploration company, headquartered in Toronto, Canada. Magna Terra owns two district-scale, advanced gold exploration projects in the world class mining jurisdictions of New Brunswick and Newfoundland and Labrador. Further, the Company maintains a significant exploration portfolio in the province of Santa Cruz, Argentina which includes its precious metals discovery on its Luna Roja Project, as well as an extensive portfolio of district scale drill ready projects available for option or joint venture.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="vc_btn3-container wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_btn3-inline">
+                                            <a
+                                                style="background-color: #ffc43c; color: #ffffff;"
+                                                class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom vc_btn3-icon-right"
+                                                href="https://www.magnaterraminerals.com/MTT/about/3891"
+                                                title=""
+                                            >
+                                                Learn More <i class="vc_btn3-icon typcn typcn-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="" class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill" style="display:initial !important">
+                                <div class="vc_column-inner vc_custom_1506386864691" style="padding-top:60px;padding-bottom:60px">
+                                    <div class="wpb_wrapper">
+                                        <h3 style="color: #7491a3; text-align: left;" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1505881390391">Recent News</h3>
+                                        <style>
+                                            .blog.col-2 .post.small:nth-child(2n+1) {
+                                                clear: initial !important;
+                                            }
+                                            .blog.col-2 .post.small {
+                                                width:100% !important;
+                                                padding-bottom:0 !important;
+                                                padding-top:0 !important;
+                                            }
+                                            .more-link {
+                                                display:none !important;
+                                            }
+                                            .blog .type-post {
+                                                margin-bottom:0 !important;
+                                            }
+                                            .post.small h3 {
+                                                font-size: 15px !important;
+                                            }
+                                            .post.small .meta {
+                                                margin-bottom:4px !important;
+                                            }
+                                        </style>
+                                        <div
+                                            class="blog clear grid col-2 alignment-left dark text-dark"
+                                            data-columns="2"
+                                            data-tabletcolumns="2"
+                                            data-nav="true"
+                                            data-pagination="true"
+                                            data-autoplay="false"
+                                            data-loop="false"
+                                            data-animationtime="100"
+                                        >
+                                            <script src="https://www.magnaterraminerals.com/MTT/press_releases_iframe?template=mtt_recent_news&per_page=3&format=js"></script>
+                                        </div>
+                                        <!-- .blog -->
+                                        <div class="vc_btn3-container wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_btn3-inline" style="margin-top:10px">
+                                            <a
+                                                style="background-color: #ffc43c; color: #ffffff;"
+                                                class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom vc_btn3-icon-right"
+                                                href="https://www.magnaterraminerals.com/MTT/press_releases"
+                                                title=""
+                                            >
+                                                View all Releases <i class="vc_btn3-icon typcn typcn-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="" class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill" style="padding-top:40px !important;display:block !important">
+                                <div class="vc_column-inner" style="height:100% !important;padding-bottom: 60px !important;padding-top:60px !important">
+                                    <div class="wd_featurebox"><a class="twitter-timeline" height="450" href="https://twitter.com/Magna_Terra_MTT" data-widget-id="598584575799926784">Tweets by @Magna_Terra_MTT</a>
+                                        <script>
+                                            ! function(d, s, id) {
+                                                var js, fjs = d.getElementsByTagName(s)[0],
+                                                    p = /^http:/.test(d.location) ? 'http' : 'https';
+                                                if (!d.getElementById(id)) {
+                                                    js = d.createElement(s);
+                                                    js.id = id;
+                                                    js.src = p + "://platform.twitter.com/widgets.js";
+                                                    fjs.parentNode.insertBefore(js, fjs);
+                                                }
+                                            }(document, "script", "twitter-wjs");
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_row-full-width vc_clearfix"></div>
+                    </div>
+                    <!-- .entry-content -->
+                </div>
+            </article>
+            <!-- #post-## -->
+        </main>
+        <!-- #main -->
+    </div>
+    <!-- #primary -->
+</div>                <!-- end middle -->
+                <footer id="footer" class="col-3">
+                    <div class="inside clear">
+                        <div class="main clear">
+                            <div id="custom_html-2" class="widget_text small one-third widget_custom_html footer-box widget-box">
+                                <div class="widget_text inside">
+                                    <div class="textwidget custom-html-widget">
+                                        <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid">
+                                            <div style="" class="wpb_column vc_column_container vc_col-sm-12">
+                                                <div class="vc_column-inner">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="templatera_shortcode">
+                                                            <style type="text/css" data-type="vc_shortcodes-custom-css">
+                                                                .vc_custom_1506387671201 {
+                                                                    margin-top: -50px !important;
+                                                                    margin-bottom: 0px !important;
+                                                                    padding-top: 5% !important;
+                                                                    padding-bottom: 5% !important;
+                                                                    background-color: #000000 !important;
+                                                                }
+                                                                .vc_custom_1506101072440 {
+                                                                    padding-left: 70px !important;
+                                                                }
+                                                            </style>
+                                                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1506387671201 vc_row-has-fill">
+                                                                <div style="" class="wpb_column vc_column_container vc_col-sm-4">
+                                                                    <div class="vc_column-inner" style="padding-top:30px !important">
+                                                                        <div class="wpb_wrapper">
+                                                                            <h4 style="color: #ccc2b0; text-align: left;" class="vc_custom_heading">Head Office</h4>
+                                                                            <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text">
+                                                                                <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                                <span class="vc_sep_holder vc_sep_holder_r"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                            </div>
+                                                                            <div class="wpb_text_column wpb_content_element">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <p>
+                                                                                        20 Adelaide St. East, Suite 915<br>
+                                                                                        Toronto, ON M2C 2T6<br>
+                                                                                        Canada
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div style="" class="wpb_column vc_column_container vc_col-sm-4">
+                                                                    <div class="vc_column-inner" style="padding-top:30px !important">
+                                                                        <div class="wpb_wrapper">
+                                                                            <h4 style="color: #ccc2b0; text-align: left;" class="vc_custom_heading">Contact Us</h4>
+                                                                            <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text">
+                                                                                <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                                <span class="vc_sep_holder vc_sep_holder_r"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                            </div>
+                                                                            <div class="wpb_text_column wpb_content_element">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <p>
+                                                                                        <i class="fa fa-phone fa-lg" aria-hidden="true"></i> +1.647.478.5307<br />
+                                                                                        <i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i><a href="mailto:info@magnaterraminerals.com">info@magnaterraminerals.com</a>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div style="" class="wpb_column vc_column_container vc_col-sm-4">
+                                                                    <div class="vc_column-inner" style="padding-top:30px !important">
+                                                                        <div class="wpb_wrapper">
+                                                                            <h4 style="color: #ccc2b0; text-align: left;" class="vc_custom_heading">Connect</h4>
+                                                                            <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text">
+                                                                                <span class="vc_sep_holder vc_sep_holder_l"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                                <span class="vc_sep_holder vc_sep_holder_r"><span style="border-color: #ccc2b0;" class="vc_sep_line"></span></span>
+                                                                            </div>
+                                                                            <div class="wpb_text_column wpb_content_element">
+                                                                                <div class="wpb_wrapper">
+                                                                                    <p>
+                                                                                        <a href="https://www.magnaterraminerals.com/MTT/email_alerts">Click here</a> to receive news and updates.
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="vc_row-full-width vc_clearfix"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="vc_row-full-width vc_clearfix"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end footer main -->
+
+                        <div class="secondary">
+                            <div class="left">
+                                <p>&copy; 2021 <a href="https://www.magnaterraminerals.com/MTT">Magna Terra Minerals</a> All Rights Reserved.</p>
+                            </div>
+                        </div>
+                        <!-- end footer secondary-->
+                    </div>
+                    <!-- end footer inside-->
+                </footer>
+            </div>
+            <!-- end main-container -->
+        </div>
+
+        <link rel="stylesheet" id="font-awesome-css" href="/template_files/1364/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" id="animate-css-css" href="/template_files/1364/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css" type="text/css" media="all" />
+        <link
+            rel="stylesheet"
+            id="vc_google_fonts_lato100100italic300300italicregularitalic700700italic900900italic-css"
+            href="//fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;ver=5.4.2"
+            type="text/css"
+            media="all"
+        />
+        <link rel="stylesheet" id="templatera_inline-css" href="/template_files/1364/wp-content/plugins/templatera/assets/css/front_style.css" type="text/css" media="all" />
+        <script type="text/javascript" src="/template_files/1364/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/jquery/ui/core.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/jquery/ui/datepicker.min.js"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function (jQuery) {
+                jQuery.datepicker.setDefaults({
+                    closeText: "Close",
+                    currentText: "Today",
+                    monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+                    monthNamesShort: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+                    nextText: "Next",
+                    prevText: "Previous",
+                    dayNames: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+                    dayNamesShort: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                    dayNamesMin: ["S", "M", "T", "W", "T", "F", "S"],
+                    dateFormat: "MM d, yy",
+                    firstDay: 1,
+                    isRTL: false,
+                });
+            });
+        </script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston-child/leader-line.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/jquery.actual.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/hoverIntent.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/superfish.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/jquery.waitforimages.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/waypoints.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/jquery.isotope.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/functions.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/jquery.scrollTo.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/jquery.prettyPhoto.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/themes/themetrust-weston/js/theme_trust.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-includes/js/wp-embed.min.js"></script>
+        <script type="text/javascript" src="/template_files/1364/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js"></script>
+    </body>
+</html>

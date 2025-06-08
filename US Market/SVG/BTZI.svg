@@ -1,0 +1,10 @@
+<!-- by Finnhub --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="#F0F3FA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.7071 12.0852L28 10L12 19V37L28 46L44 37V26.8765L28 36L18 29.8561V33.6762L28 39.5L40 32.5V35L28 42L16 35.0001V32.5114L16 26.5565L16 26L16 21L31.7071 12.0852ZM33.9323 13.3369L18.6722 21.9033L28 27.5L40 20.5001V23L28 30L18 24V27.25L28 33.5L28 35.7222L28 33.5L44 24.2654V19L40.1149 16.8146L28.5 23.5L25.9622 22.1337L37.6006 15.4003L33.9323 13.3369Z" fill="url(#paint0_linear_228_4468)"/>
+<defs>
+<linearGradient id="paint0_linear_228_4468" x1="44" y1="23.1678" x2="12.2285" y2="35.9376" gradientUnits="userSpaceOnUse">
+<stop stop-color="#26C2EF"/>
+<stop offset="1" stop-color="#006FE4"/>
+</linearGradient>
+</defs>
+</svg>

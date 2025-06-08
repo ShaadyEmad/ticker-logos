@@ -1,0 +1,16 @@
+<!-- by Finnhub --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="#F0F3FA"/>
+<path d="M30.8659 34H11V29.493C11 25.4586 14.1665 21 18.0726 21H22V18.305C22 14.2706 24.9346 11 28.8407 11H34V21H45V23.8695C43.771 25.584 41.1743 29.0525 40.8678 29.2108C40.5614 29.3691 33.7388 32.3185 30.8659 34Z" fill="url(#paint0_linear_229_9944)"/>
+<path d="M27.0844 44.9999H22V40.5077L24.6333 32.248H34V37.8253C34 41.7877 30.9208 44.9999 27.0844 44.9999Z" fill="url(#paint1_linear_229_9944)"/>
+<path d="M22 34.5942V44.8993C22 37.4668 27.8806 35.2165 30.7693 35H35.654C40.8157 35 45 29.6374 45 24.3062V22C44.6892 23.6051 43.2011 23.8515 42.4959 24H30.944C26.0614 24 22 29.5512 22 34.5942Z" fill="#10A683"/>
+<defs>
+<linearGradient id="paint0_linear_229_9944" x1="14.0111" y1="34.4532" x2="37.3929" y2="19.4715" gradientUnits="userSpaceOnUse">
+<stop stop-color="#075650"/>
+<stop offset="1" stop-color="#043136"/>
+</linearGradient>
+<linearGradient id="paint1_linear_229_9944" x1="24.9439" y1="34.2936" x2="30.9027" y2="42.5354" gradientUnits="userSpaceOnUse">
+<stop stop-color="#06876B"/>
+<stop offset="1" stop-color="#0AAC85"/>
+</linearGradient>
+</defs>
+</svg>

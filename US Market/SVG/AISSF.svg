@@ -1,0 +1,12 @@
+<!-- by Finnhub --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="#F0F3FA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.0119 38.2302C9.1741 36.434 8.83467 34.1608 9.0625 32.6791C10.5036 25.3472 16.6855 20.3178 23.4568 17.54C21.0078 21.5435 14.7143 32.0404 11.0119 38.2302ZM37 15V35.5848C42.2684 32.0703 46 27.1965 46 22.0375C45.7899 19.7397 43.6761 15.4705 37 15ZM34.7869 36.9316L27.6426 37.3206L28.0876 33.6413L21.0784 34.3205L19.0201 38.1696L11.5735 38.7253C13.229 40.043 15.8434 41 19.8545 41C24.8707 41 30.2326 39.4557 34.7869 36.9316ZM28.4213 28.0941L24.416 28.4903L29.4782 19.3204L28.4213 28.0941Z" fill="url(#paint0_linear_229_11421)"/>
+<defs>
+<linearGradient id="paint0_linear_229_11421" x1="35.3685" y1="10.5499" x2="19.4062" y2="42.2863" gradientUnits="userSpaceOnUse">
+<stop offset="0.0308863" stop-color="#BBA051"/>
+<stop offset="0.106676" stop-color="#D19E3B"/>
+<stop offset="0.296544" stop-color="#F1DA7C"/>
+<stop offset="1" stop-color="#AD740C"/>
+</linearGradient>
+</defs>
+</svg>
